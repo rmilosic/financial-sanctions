@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-from parsers.sanctions import SanctionsParser
+from .. import SanctionsParser
 from models import SanctionEntity, SanctionEntityAddress, SanctionEntityDOB, SanctionEntityDocument, SanctionEntityName, SanctionEntityRestriction
 
 
@@ -15,7 +15,7 @@ class EuSanctionsParser(SanctionsParser):
         tree = ET.parse(xml_file_path)
         root = tree.getroot()
 
-        print(root.tag, root.attrib)
+        # print(root.tag, root.attrib)
 
 
         entities = []
@@ -25,11 +25,11 @@ class EuSanctionsParser(SanctionsParser):
 
             # print("--------\nSanction Entity: \n", sanction_entity.tag, sanction_entity.attrib)
             
-            # empty lists for 
+            # NEW ENTITY
             new_sanction_entity = SanctionEntity()
 
 
-            # ----------- BIRTHDATE
+            # ----------- BIRTHDATES
             for birthdate in sanction_entity.findall('export:birthdate', ns):
                 
                 dob = birthdate.get('birthdate')
@@ -58,19 +58,89 @@ class EuSanctionsParser(SanctionsParser):
                 new_sanction_entity.birthdates.append(new_birthdate)
                 
                 
-
+            # ------ NAME ALIASES
             for name_alias in sanction_entity.findall('export:nameAlias', ns):
                 
-                whole_name = name_alias.get('wholeName')
+                name1 = name_alias.get('wholeName')
+                name2 = name_alias.get('firstName')
+                name3 = name_alias.get('middleName')
+                name4 = name_alias.get('lastName')
+                lor = name_alias.get('regulationLanguage')
                 
 
-                new_name_alias = SanctionEntityName()
+                new_name_alias = SanctionEntityName(
+                    name1=name1,
+                    name2=name2,
+                    name3=name3,
+                    name4=name4,
+                    lor=lor
+                )
 
-            #     print(name_alias.tag, name_alias.attrib)
-            
-            # print(new_sanction_entity)
-            
-            if i > 3:
-                break
-            
+                new_sanction_entity.names.append(new_name_alias)
+
+            # ------ DOCUMENTS
+            for document in sanction_entity.findall('export:identification', ns):
+                
+                # TODO: map dty to codes?
+                dty = document.get('identificationTypeCode')
+                did = document.get('firstName')
+                coi = document.get('countryIso2Code')
+                remarks = document.find('remark')
+                if remarks != None:
+                    remarks = remarks.text
+                lor = document.get('regulationLanguage')
+
+                new_document = SanctionEntityDocument(
+                    dty=dty,
+                    did=did,
+                    coi=coi,
+                    remarks=remarks,
+                    lor=lor
+                )
+
+                new_sanction_entity.documents.append(new_document)
+
+            # ------ RESTRICTIONS
+            for restriction in sanction_entity.findall('export:regulation', ns):
+                
+                dor = restriction.get('entryIntoForceDate')
+                tor = "3,30" # todo: ?
+                sor = "EU,US OFAC SDN" # todo: ?
+                aor = str(restriction.get('regulationtype')) + " " + str(restriction.get('numberTitle'))
+                lor = restriction.get('regulationLanguage')
+
+                new_restriction = SanctionEntityRestriction(
+                    dor=dor,
+                    tor=tor,
+                    sor=sor,
+                    aor=aor,
+                    lor=lor
+                )
+                
+                new_sanction_entity.restrictions.append(new_restriction)
+
+            # ------ ADDRESSES
+            for address in sanction_entity.findall('export:address', ns):
+                
+                street = address.get('street')
+                city = address.get('city')
+                country = address.get('countryIso2Code')
+                lor = address.get('regulationLanguage')
+
+                new_address = SanctionEntityAddress(
+                    street=street,
+                    city=city,
+                    country=country,
+                    lor=lor
+                )
+                
+                new_sanction_entity.addresses.append(new_address)
+
+
+            # append to entities list
+
+            entities.append(new_sanction_entity)
+
+        return entities
+
             
