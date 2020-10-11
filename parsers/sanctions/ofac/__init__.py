@@ -91,7 +91,7 @@ class OfacSanctionsParser(SanctionsParser):
                         name4 = None
 
                     # combination
-                    name1 = str(name2) + str(name4)
+                    name1 = " ".join(filter(None, [name2, name4]))
                     
                     lor = "en"
                     

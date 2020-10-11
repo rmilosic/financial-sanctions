@@ -1,0 +1,8788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<natural_persons>
+	<person>
+		<names>
+			<name>
+				<name1>Saddam Hussein Al-Tikriti</name1>
+				<name2>Saddam</name2>
+				<name3/>
+				<name4>Hussein Al-Tikriti</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Ali</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abou Ali</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1937-04-28</dob>
+				<pob>al-Awja, near Tikrit</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Qoussaï Saddam Hussein Al-Tikriti</name1>
+				<name2>Qoussaï</name2>
+				<name3>Saddam</name3>
+				<name4>Hussein Al-Tikriti</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Qusay Saddam Hussein Al-Tikriti</name1>
+				<name2>Qusay</name2>
+				<name3>Saddam</name3>
+				<name4>Hussein Al-Tikriti</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1965</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1966</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Oudaï Saddam Hussein Al-Tikriti</name1>
+				<name2>Oudaï</name2>
+				<name3>Saddam</name3>
+				<name4>Hussein Al-Tikriti</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Uday Saddam Hussein Al-Tikriti</name1>
+				<name2>Uday</name2>
+				<name3>Saddam</name3>
+				<name4>Hussein Al-Tikriti</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1964</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1967</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abdel Hamid Mahmoud</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abid Hamid Bid Hamid Mahmoud</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abid Hamid Mahmud Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abid Hamid Bid Hamid Mahmud</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abed Mahmoud Hammoud</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abed Mahmoud Hammud</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abid Hamid Mahmoud Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1957</dob>
+				<pob>al-Awja, near Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Al-Kimawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ali Hassan Al-Majid Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1943</dob>
+				<pob>al-Awja, near Tikrit</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Al-Awja, near Tikrit (J.O. ES)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Izzat Ibrahim al-Duri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Izzat Ibrahim Al-Duri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Ahmad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Izzat Ibrahim al-Duri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Brays</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Ahmad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Izzat Ibrahim al-Douri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Izzat Ibrahim al-Duri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Brays</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Brays</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Ahmad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Al-Dur (J.O. ES)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1942</dob>
+				<pob>al-Dur</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Hani Abdel-Latif Tilfah Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hani Abd-Al-Latif Tilfah Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1962</dob>
+				<pob>al-Awja, near Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Aziz Salih al-Numan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Aziz Salih al-Numan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Aziz Salih Al-Numan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Aziz Salih al-Numan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Aziz Salih al-Nouman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Aziz Salih al-Numan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Nassiriya (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1945</dob>
+				<pob>An Nasiriyah</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1941</dob>
+				<pob>An Nasiriyah</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Mohammed Hamza Zoubaïdi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Muhammad Hamza Zubaidi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1938</dob>
+				<pob>Babylon, Babil</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Babylone, Babil (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Kamal Mustafa Abdallah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kamal Moustafa Abdallah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kamal Mustafa Abdallah Sultan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kamal Mustafa Abdallah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kamal Moustafa Abdallah Soultan al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kamal Mustafa Abdallah Sultan al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kamal Mustafa Abdallah Sultan al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1955-05-04</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1952</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Barzan Abd al-Ghafur Sulaiman Majid Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Barzan Abdel Ghafour Souleiman Majid Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Barzan Razuki Abd Al-Ghafur</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Barzan Razuki Abd al-Ghafur</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Barzan Razuki Abdel Ghafour</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Salah Al-Din (J.O. ES)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Salaheddine (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1960</dob>
+				<pob>Salah al-Din</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Muzahim Sa'b Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Muzahim Sa'b Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Muzahem Saab Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1949</dob>
+				<pob>al-Awja near Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1960</dob>
+				<pob>Salah al-Din</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Salaheddine (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1949</dob>
+				<pob>Salah al-Din</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1946</dob>
+				<pob>al-Awja near Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1946</dob>
+				<pob>Salah al-Din</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1960</dob>
+				<pob>al-Awja near Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Ibrahim Ahmed Abdel Sattar Mohammed Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ibrahim Ahmad Abd al-Sattar Muhammed Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Mossoul (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1950</dob>
+				<pob>Mosul</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Saif-al-Din Fulayyih Hassan Taha Al-Rawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Saïf-al-Din Foulaï Hassan Taha Al-Raoui</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ayad Foutaï Al-Raoui</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ayad Futayyih Al-Rawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1953</dob>
+				<pob>Ramadi</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Rafi Abdel Latif Tilfa Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rafi Abd-al-Latif Tilfah Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1954</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Tahir Jalil Habbush Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Tahir Jalil Habbush Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Tahir Jalil Habbouch Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1950</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Hamid Raja-Chala Hassoum Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hamid Raja Chala Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hamid Raja Shalah Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hamid Raja-Shalah Hassum Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1950</dob>
+				<pob>Bayji, Salah al-Din Governorate</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Bayji, Gobernación de Salah Al-Din (J.O. ES)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Salaheddine (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Latif Nusayyif Jasim Al-Dulaymi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Latif Nusayyif Jasim Al-Dulaymi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Latif Noussaïf Jassim Al-Doulaïmi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1941</dob>
+				<pob>ar-Rashidiyah, suburb of Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abd-al-Tawwab Mullah Huwaysh</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abd-al-Tawwab Mullah Huwaysh</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdel-Taouab Moullah Houwaïch</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1942-03-14</dob>
+				<pob>Mosul</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1957</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1957</dob>
+				<pob>Mosul</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1942-03-14</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Taha Yassine Ramadan Al-Jizraoui</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Taha Yassin Ramadan Al-Jizrawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1938</dob>
+				<pob>Mosul</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Jamal Mustafa Abdallah Sultan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jamal Mustafa Abdallah Sultan al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jamal Moustafa Abdallah Soultan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1955-05-04</dob>
+				<pob>al-Samnah, near Tikrit</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Mizban Khadr Hadi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1938</dob>
+				<pob>Mandali District, Diyala</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Mandalin piiri, Diyala (J.O. FI)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Taha Mouhi-al-Din Marouf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Taha Muhyi-al-Din Ma'ruf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1924</dob>
+				<pob>Sulaymaniyah</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Souleimaniyah (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Tariq Mikhail Aziz</name1>
+				<name2>Tariq</name2>
+				<name3>Mikhail</name3>
+				<name4>Aziz</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Tarek Mikhail Aziz</name1>
+				<name2>Tarek</name2>
+				<name3>Mikhail</name3>
+				<name4>Aziz</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Tarek Aziz</name1>
+				<name2>Tarek</name2>
+				<name3/>
+				<name4>Aziz</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Tariq Aziz</name1>
+				<name2>Tariq</name2>
+				<name3/>
+				<name4>Aziz</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1936-07-01</dob>
+				<pob>Mosul</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1936-07-01</dob>
+				<pob>Baghdad</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Walid Hamid Tawfiq al-Nasiri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Walid Hamid Tawfik al-Nasiri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Walid Hamid Tawfiq Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Walid Hamid Tawfik Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Walid Hamid Tawfiq Al-Nasiri</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1954</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Soultan Hachim Ahmed Al-Tai</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sultan Hashim Ahmad Al-Ta'i</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1944</dob>
+				<pob>Mosul</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Mossoul (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Hikmat Mizban Ibrahim al-Azzaoui</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hikmat Mizban Ibrahim al-Azzawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1934</dob>
+				<pob>Diyala</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Mahmud Dhiyab Al-Ahmed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Mahmoud Dhiab Al-Ahmed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Bagdad (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1953</dob>
+				<pob>Mosul</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1953</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Mossoul (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Ayad Futayyih Khalifa Al-Rawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ayad Futayyih Khalifa Al-Rawi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1942</dob>
+				<pob>Rawah</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Zouheir Taleb Abdel Sattar al-Nakib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Zuhair Talib Abd-al-Sattar Al-Naqib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1948</dob>
+				<pob/>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Amir Hamudi Hassan Al-Sa'di</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Amir Hamoudi Hassan Al-Sadi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Amir Hamudi Hassan Al-Sa'di</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Amir Hamudi Hassan Al-Sa'di</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1938-04-05</dob>
+				<pob>Baghdad</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Amir Rachid Mohammed Al-Oubaïdi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Amir Rashid Muhammad Al-Ubaidi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Amir Rashid Muhammad Al-Ubaidi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1939</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Bagdad (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Houssam Mohammed Amin Al-Yassine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Husam Muhammad Amin Al-Yassin</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1953</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1958</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Mohammed Mahdi Al-Saleh</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Muhammad Mahdi Al-Salih</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Muhammad Mahdi Al-Salih</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1947</dob>
+				<pob>al-Anbar Governate</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1949</dob>
+				<pob>al-Anbar Governate</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>Provinz Anbar (J.O. DE)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Sab'awi Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sab'awi Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sabaoui Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sab'awi Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1947</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Watban Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Watab Ibrahim al-Hassan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Watab Ibrahim al-Hassan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Watban Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1952</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Barzan Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Barzan Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Barzan Ibrahim Hassan Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1951</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Huda Salih Mahdi Ammash</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Huda Salih Mahdi Ammash</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Huda Salih Mahdi Ammash</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Houda Sali Mahdi Ammach</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Huda Salih Mahdi Ammash</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1953</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abd-al-Baqi Abd-al-Karim Abdallah Al-Sa'dun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdel-Baki Abdel-Karim Abdalla Al-Sadoun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abd-al-Baqi Abd-al-Karim Abdallah Al-Sa'dun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abd-al-Baqi Abd-al-Karim Abdallah Al-Sa'dun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1947</dob>
+				<pob/>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Muhammad Zimam Abd-al-Razzaq Al-Sa'dun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Mohammed Zimam Abdel-Razzak Al-Sadoun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Muhammad Zimam Abd-al-Razzaq Al-Sa'dun</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Souq ach-Chouyoukh, Zi-Qar (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1942</dob>
+				<pob>Suq Ash-Shuyukh District, Dhi-Qar</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Samir Abd al-Aziz Al-Najim</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Samir Abdel-Aziz Al-Najim</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Samir Abd Al-Aziz Al-Najim</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1938</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1937</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Houmam Abdel-Khalil Rachid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Houmam Abdel-Khalik Abdel-Rahman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Houmam Abdel-Khalik Abdel-Ghafour</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam 'Abd-al-Khaliq Rashid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam 'Abd-al-Khaliq Rashid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam Abd-al-Khaliq Abd-al-Ghafur</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam Abd-al-Khaliq Abd-al-Ghafur</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam Abd-al-Khaliq Abd-al-Ghafur</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam 'Abd al-Khaliq 'Abd al-Rahman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam 'Abd al-Khaliq 'Abd al-Rahman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam 'Abd al-Khaliq 'Abd al-Rahman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Humam 'Abd-al-Khaliq Rashid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1945</dob>
+				<pob>Ar-Ramadi</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Yahia Abdallah Al-Ubaidi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Yahia Abdalla Al-Oubaïdi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Nayif Shindakh Thamir Ghalib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nayif Shindakh Thamir Ghalib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nayif Shindakh Thamir Ghalib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Saif-al-Din Al-Mashhadani</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Saif-al-Din Al-Machhadani</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Saif-al-Din Al-Machhadani</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1956</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Fadil Mahmud Gharib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fadil Mahmoud Gharib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fadil Mahmud Gharib</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gharib Mohammed Fazel al-Machaikhi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gharib Muhammad Fazel al-Mashaikhi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gharib Muhammad Fazel al-Mashaikhi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1944</dob>
+				<pob>Dujail</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Muhsin Khadr Al-Khafaji</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Mouhssin Khadr Al-Khafaji</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Rashid Taan Kathim</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rachid Taan Kazim</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Ugla Abid Sakr Al-Zubaisi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Saqr al-Kabisi Abd Aqala</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ougla Abid Sakr Al-Koubaïssi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1944</dob>
+				<pob>Kubaisi, al-Anbar</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Ghazi Hammoud Al-Oubaïdi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ghazi Hammud Al-Ubaidi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1944</dob>
+				<pob>Baghdad</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Adil Abdallah Mahdi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Adil Abdallah Mahdi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Al-Dur (J.O. ES)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1945</dob>
+				<pob>al-Dur</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob/>
+				<pob>al-Dour (J.O. FR)</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Qaid Hussein Al-Awadi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Qaid Hussein Al-Awadi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Qaid Hussein Al-Awadi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Qaid Hussein Al-Aouadi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Dr. Fnu Mnu Khamis</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Khamis Sirhan Al-Muhammad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Khamis Sirhan Al-Muhammad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Khamis Sirhan Al-Muhammad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Sa'd Abd-al-Majid Al-Faisal Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Saad Abdul-Majid Al-Faissal Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sa'd Abd-al-Majid Al-Faisal Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sa'd Abd-al-Majid Al-Faisal Al-Tikriti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1944</dob>
+				<pob>Tikrit</pob>
+				<cob>00</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-07-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 1210/2003 (OJ L169)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abdelkarim Hussein Mohamed AL-NASSER</name1>
+				<name2>Abdelkarim</name2>
+				<name3>Hussein Mohamed</name3>
+				<name4>AL-NASSER</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob/>
+				<pob>Al Ihsa</pob>
+				<cob>SA</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Ibrahim Salih Mohammed AL YACOUB</name1>
+				<name2>Ibrahim</name2>
+				<name3>Salih Mohammed</name3>
+				<name4>AL YACOUB</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1966-10-16</dob>
+				<pob>Tarut</pob>
+				<cob>SA</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Hasan IZZ-AL-DIN</name1>
+				<name2>Hasan</name2>
+				<name3/>
+				<name4>IZZ-AL-DIN</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ahmed GARBAYA</name1>
+				<name2>Ahmed</name2>
+				<name3/>
+				<name4>GARBAYA</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>SA-ID</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Samir SALWWAN</name1>
+				<name2>Samir</name2>
+				<name3/>
+				<name4>SALWWAN</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1963</dob>
+				<pob>-</pob>
+				<cob>LB</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Khalid Shaikh MOHAMMED</name1>
+				<name2>Khalid</name2>
+				<name3>Shaikh</name3>
+				<name4>MOHAMMED</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Salem ALI</name1>
+				<name2>Salem</name2>
+				<name3/>
+				<name4>ALI</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fahd Bin Adballah BIN KHALID</name1>
+				<name2>Fahd</name2>
+				<name3>Bin Adballah</name3>
+				<name4>BIN KHALID</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ashraf Refaat Nabith HENIN</name1>
+				<name2>Ashraf</name2>
+				<name3>Refaat Nabith</name3>
+				<name4>HENIN</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Khalid Adbul WADOOD</name1>
+				<name2>Khalid</name2>
+				<name3>Adbul</name3>
+				<name4>WADOOD</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1965-04-14</dob>
+				<pob>-</pob>
+				<cob>PK</cob>
+				<lor>en</lor>
+			</birth>
+			<birth>
+				<dob>1964-03-01</dob>
+				<pob>-</pob>
+				<cob>PK</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>passport</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Septiembre Negro</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigadas Revolucionarias Árabes</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Consejo Revolucionario de Al Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organización Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Революционна организация на мюсюлманите социалисти</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Черен септември</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Арабски революционни бригади</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Революционен съвет на Фатах</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Организация „Абу Нидал”</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Nidals grupp</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Musta syyskuu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatahin vallankumousneuvosto</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Nidal - järjestö</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarna organizacija socialističnih muslimanov</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Črni September</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arabske revolucionarne brigade</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarni svet Fataha</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizacija Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolučná organizácia moslimských socialistov</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Čierny september</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arabské revolučné brigády</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolučná rada Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizácia Abú Nidála</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizația Revoluționară a Musulmanilor Socialiști</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Septembrie Negru</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigăzile Revoluționare Arabe</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Consiliul Revoluționar Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizația Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organização Revolucionária dos Muçulmanos Socialistas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Setembro Negro</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigadas Revolucionárias Árabes</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Conselho Revolucionário do Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organização Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rewolucyjna Organizacja Muzułmańskich Socjalistów</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Czarny Wrzesień</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rewolucyjne Brygady Arabskie</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rewolucyjna Rada Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizacja Abu Nidala</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Szocialista Muzulmánok Forradalmi Szervezete</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatah Revolutionary Council</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arab Revolutionary Brigades</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Black September</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionary Organisation of Socialist Muslims</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Nidal Organisation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>ANO</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionaire Organisatie van Socialistische Moslims</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Zwarte September</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arabische Revolutionaire Brigades</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatah Revolutionaire Raad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>l-Organizzazzjoni Rivoluzzjonarja tal-Musulmani Sojalisti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>s-Settembru l-Iswed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>l-Brigati Rivoluzzjonarji Garab</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>l-Kunsill Rivoluzzjonarju tal-Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>L-Organizzazzjoni Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fekete Szeptember</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arab Forradalmi Brigádok</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatah Forradalmi Tanács</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Nidal Szervezet</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Musulmonų socialistų revoliucinė organizacija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Juodasis rugsėjis</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arabų revoliucinės brigados</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatah revoliucinė taryba</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Nidal organizacija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizzazione rivoluzionaria dei musulmani socialisti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Settembre nero</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigate rivoluzionarie arabe</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Consiglio rivoluzionario Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizzazione Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarna organizacija socijalističkih muslimana</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Crni rujan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arapske revolucionarne brigade</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarno vijeće Fataha</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizacija Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Eagraíocht Réabhlóide na Moslamach Sóisialach</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Lucht Mheán Fómhair Dubh</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>na Briogáidí Réabhlóideacha Arabacha</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Comhairle Réabhlóide Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Eagraíocht Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organisation révolutionnaire des musulmans socialistes</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Septembre noir</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigades révolutionnaires arabes</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Conseil révolutionnaire du Fatah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organisation Abou Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Επαναστατική Οργάνωση Σοσιαλιστών Μουσουλμάνων</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Μαύρος Σεπτέμβρης</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Αραβικές Επαναστατικές Ταξιαρχίες</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Επαναστατικό Συμβούλιο Φατάχ</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Οργάνωση Abu Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sotsialistlike Moslemite Revolutsiooniline Organisatsioon</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Must September</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Araabia Revolutsioonilised Brigaadid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatah' Revolutsiooniline Nõukogu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Nidali Organisatsioon</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionäre Organisation der Sozialistischen Moslems</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Schwarzer September</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arabische Revolutionäre Brigaden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fatah-Revolutionsrat</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revoluční organizace socialistických muslimů</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Černé září</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arabské revoluční brigády</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revoluční rada Fatáhu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizace Abú Nidal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organización Revolucionaria de los Musulmanes Socialistas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Al-Aqsa Martyrs' Brigade</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Бригади на мъчениците от Ал-Акса</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Aqsan marttyyrien prikaati</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigada mučenikov Al Akse</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigáda mučeníkov Al-Aksá</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigada Martirilor Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigada dos Mártires de Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brygady Męczenników Al-Aksy</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Aqsa Martelarenbrigade</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Il-Brigata tal-Martri ta' Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Aqsa Mártírjainak Brigádja</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Aqsa kankinių brigade</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigata dei martiri di Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigada mučenika Al-Aqse</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Briogáid Máirtíreach Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigade des martyrs d’Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ταξιαρχία Μαρτύρων του Al-Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Aqsa Märtrite Brigaad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Aqsa-Märtyrerbrigade</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigáda mučedníků al-Aksá</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Brigada de los Mártires de Al‐Aqsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>al-Aqsa-martyrernas brigader</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Babbar Khalsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Babbar Chalsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Бабар Калса</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Babbar Jalsa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Μπάμπαρ Χαλσά</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Gama'a al-Islamiyya</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Gama'a al-Islamiyya</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamiska gruppen</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamistična skupina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamská skupina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupul Islamic</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Islâmico</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupa Islamska</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamitische Groep</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>il-Grupp Iżlamiku</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Iszlám Csoport</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamo grupuotė</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamska skupina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grúpa Ioslamach</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Groupe islamique</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ισλαμική Ομάδα</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamirühmitus</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamische Gruppe</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamisk Gruppe</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islámská skupina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Islámico</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Джамаа Ислямия</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamic Group - IG</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>IG</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>IBDA-C</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Фронт на великите ислямски източни воини</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>İslami Büyük Doğu Akıncılar Cephesi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>il-Front Iżlamiku tal-Ġellieda tal-Lvant il-Kbir</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nagy Iszlám Keleti Harci Front</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Didysis islamo rytų karių frontas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronte islamico dei combattenti del grande oriente</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronta ratnika velikog islamskog istoka</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Förtrupperna för ett islamiskt Stororienten</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronta islamskih bojevnikov velikega vzhoda</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front islamských bojovníkov Veľkého východu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Marele Front de Est Islamic al Războinicilor</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grande Frente Islâmica Oriental de Combatentes</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamski Front Bojowników o Wielki Wschód</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front van Voorvechters voor het Grote Islamitische Oosten</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronta Mór Laochra Ioslamacha an Oirthir</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front islamique des combattants du Grand Orient</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Μέγα Ισλαμικό Μέτωπο των Πολεμιστών της Ανατολής</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Suur Islami Idavõitlejate Rinne</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front der islamischen Kämpfer des Großen Ostens</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronta islámských bojovníků Velkého východu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frente de Guerreros del Gran Oriente Islámico</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Great Islamic Eastern Warriors Front</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Hamas-Izz al-Din al-Qassem</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Hamas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Kurdische Arbeiterpartei</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdistanska radnička stranka</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partito dei lavoratori del Kurdistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>KONGRA-GEL</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdská strana pracujících</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdistani Töölispartei</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurd Munkáspárt</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdistano darbininkų partija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partia Pracujących Kurdystanu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Strana kurdských pracujúcich</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Delavska stranka Kurdistana</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdistan Workers Party</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdistan Workers' Party</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PKK</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Parti des travailleurs du Kurdistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partido de los Trabajadores del Kurdistán</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Εργατικό Κόµµα του Κουρδιστάν</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partido dos Trabalhadores do Curdistão</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kurdistanin työväenpuolue</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Det Kurdiske Arbejderparti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Il-Partit tal-Ħaddiema tal-Kurdistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Кюрдска работническа партия</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partidul Muncitoresc din Kurdistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>KADEK</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Páirtí Oibrithe na Cordastáine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Koerdische Arbeiderspartij</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Communist Party of the Philippines</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>NPA, Philippines</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>New People's Army</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nya folkarmén</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Filippinernas kommunistparti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Uusi kansanarmeija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Filippiinien kommunistinen puolue</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nova ljudska vojska</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Komunistična stranka Filipinov</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Novej ľudovej armády</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Komunistická strana Filipín</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Noua Armată Populară</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partidul Comunist din Filipine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Novo Exército Popular (NEP)</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partido Comunista das Filipinas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nowa Armia Ludowa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Komunistyczna Partia Filipin</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>l-Armata l-Ġdida tal-Poplu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Il-Partit Komunista tal-Filippini</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fülöp-szigeteki Kommunista Párt</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Új Néphadsereg</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Naująją liaudies armiją</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Filipinų komunistų partija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nuovo esercito popolare</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partito comunista delle Filippine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nova narodna vojska</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Komunistička partija Filipina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arm Nua an Phobail - APN</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Páirtí Cumannach na nOileán Filipíneach</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nouvelle armée du peuple</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Parti communiste des Philippines</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Νέος Λαϊκός Στρατός</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Κομμουνιστικό Κόμμα Φιλιππίνων</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Uus Rahvaarmee</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Filipiinide Kommunistlik Partei</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Neue Volksarmee</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Kommunistische Partei der Philippinen</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Det Filippinske Kommunistparti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nové lidové armády</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Komunistická strana Filipín</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Nuevo Ejército del Pueblo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partido Comunista de las Filipinas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Нова народна армия</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Комунистическа партия на Филипините</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>PIJ</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jiohád Ioslamach na Palaistíne</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestiinan islamilainen jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palæstinensisk Islamisk Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jihad islamica palestinese</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palästinensischer Islamischer Dschihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinian Islamic Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinský islámský džihád</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestiina Islami Džihaad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palesztin Iszlám Dzsihád</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestīniešu Islāma Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestínsky islamský džihád</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinski islamski džihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinska islamiska Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Палестински ислямски джихад</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jihadul Islamic Palestinian</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>JIP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestyński Islamski Dżihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jihad islamique palestinien</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Yihad islámica para la liberación de Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jihad Islâmica Palestiniana</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestina Islamic Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinos islamo džihadas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Il-Ġiħad Iżlamika tal-Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinski islamski džihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Παλαιστινιακή Ισλαµική Τζιχάντ</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>PFLP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronta Pobail i gcomhair Shaoirse na Palaistíne</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frente Popular de Liberación de Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Λαϊκό Μέτωπο για την Απελευθέρωση της Παλαιστίνης</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestiinan vapautuksen kansanrintama</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Folkefronten til Palæstinas Befrielse</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Volksfront für die Befreiung Palästinas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Volksfront voor de bevrijding van Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronte popolare di liberazione della Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Popular Front for the Liberation of Palestine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Lidová fronta za osvobození Palestiny</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestiina Vabastamise Rahvarinne</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Népi Front Palesztina Felszabadításért</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestīnas atbrīvošanas Tautas Fronte</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinos išlaisvinimo liaudies frontas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PILF</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ludowy Front Wyzwolenia Palestyny</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ľudový front za oslobodenie Palestíny</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ljudska fronta za osvoboditev Palestine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PATF</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Il-Front Popolari għal-Liberazzjoni tal-Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frente Popular de Libertação da Palestina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Народен Фронт за освобождение на Палестина</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frontul Popular pentru Eliberarea Palestinei</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPEP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Folkfronten för Palestinas befrielse</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Narodna fronta za oslobođenje Palestine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front populaire de libération de la Palestine</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Λαϊκό Μέτωπο για την Απελευθέρωση της Παλαιστίνης — Γενική ∆ιοίκηση</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Folkefronten til Palæstinas Befrielse-Generalkommandoen</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Generalkommando der Volksfront für die Befreiung Palästinas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Volksfront voor de bevrijding van Palestina-Algemeen Commando</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frente Popular de Libertação da Palestina — Comando Geral</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP — Commandement général</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Comando generale del PFLP</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Vrchní velitelství Lidové fronty za osvobození Palestiny</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Népi Front Palesztina Felszabadításért – Főparancsnokság</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestīnas atbrīvošanas Tautas Fronte – virsvadība</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestinos išlaisvinimo žmonių fronto Aukščiausioji vadovybė</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PILF Aukščiausioji vadovybė</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP-Hlavné veliteľstvo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ljudska fronta za osvoboditev Palestine – glavno poveljstvo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP – glavno poveljstvo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Il-Front Popolari għal-Liberazzjoni tal-Palestina – Kmand Ġenerali</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP – Kmand Ġenerali</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Народен Фронт за освобождение на Палестина – Общо командване</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frontul Popular pentru Eliberarea Palestinei – Comandamentul General</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPEP – Comandamentul General</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestiina Vabastamise Rahvarinde peastaap</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Народен фронт за освобождение на Палестина — Главно командване</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP-CG</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP – virsvadība</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ludowy Front Wyzwolenia Palestyny – Naczelne Dowództwo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP -Főparancsnokság</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Popular Front for the Liberation of Palestine — General Command</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP — General Command</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front populaire de libération de la Palestine — Commandement général</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frente Popular de Liberación de Palestina — «Comando General»</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP — Comando General</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>FPLP — Comando Geral</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronte popolare di liberazione della Palestina — Comando generale</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ľudový front za oslobodenie Palestíny – hlavné veliteľstvo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Folkfronten för Palestinas befrielse – Generalkommandot</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP:n keskuskomento</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Palestiinan vapautuksen kansanrintama – keskuskomento</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP – splošno poveljstvo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ljudska fronta za osvoboditev Palestine – splošno poveljstvo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP – Naczelne Dowództwo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ludowy Front Wyzwolenia Palestyny – Naczelne Dowództwo</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP — Glavni stožer</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Narodna fronta za oslobođenje Palestine — Glavni stožer</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP — Ceannas Ginearálta</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fronta Pobail i gcomhair Shaoirse na Palaistíne — Ceannas Ginearálta</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>PFLP peastaap</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>DHKP/C</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Επαναστατικός Λαϊκός Απελευθερωτικός Στρατός/Μέτωπο/Κόμμα</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Armée/Front/Parti révolutionnaire populaire de libération</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gauche révolutionnaire</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ejército/Frente/Partido Revolucionario de Liberación Popular</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Izquierda revolucionaria</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Exército/Frente/Partido Revolucionário Popular de Libertação</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Esquerda Revolucionária</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionäre Volksbefreiungsarmee/-front/- partei</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionäre Linke</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionair Volksbevrijdingsleger/front/partij</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionair Links</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Esercito/Fronte/Partito rivoluzionario popolare di liberazione</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sinistra rivoluzionaria</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Lewica Rewolucyjna</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolučná ľudová oslobodzovacia armáda/front/strana</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolučná ľavica</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Devrimci Sol</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>L-Armata/Il-Front/Il-Partit Rivoluzzjonarju/a għal-Liberazzjoni tal-Poplu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Xellug Rivoluzzjonarju</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarna ljudska osvobodilna vojska/fronta/stranka</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Революционни армия/ фронт / партия за народно освобождение</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Революционни леви</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Armata/Frontul/Partidul de Eliberare Revoluționară Populară</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Stânga Revoluționară</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionary People's Liberation Army/Front/Party</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutionary Left</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Devrimci Halk Kurtuluş Partisi-Cephesi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Devrimci Halk Kurtulus Partisi-Cephesi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Επαναστατικός Λαϊκός Απελευθερωτικός Στρατός/Μέτωπο</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Επαναστατική Αριστερά</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revoluční lidově osvobozenecká armáda/fronta/strana</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revoluční levice</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutsiooniline Rahva Vabastusarmee/ Rinne/Partei</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolutsioonilised Vasakpoolsed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Forradalmi Népi Felszabadítási Hadsereg/Front/Párt</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Forradalmi Baloldal</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionārā Tautas atbrīvošanās armija/fronte/partija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>revolucionāri kreisie</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revoliucinė liaudies išlaisvinimo armija/frontas/partija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revoliucinė kairė</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Partia/Front i Armia Wyzwolenia Ludu Tureckiego</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarna levica</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>An Eite Chlé Réabhlóideach</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Arm/Fronta/Páirtí Saortha Réabhlóidigh an Phobail</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Armata/Front/Partit Rivoluzzjonarju għall-Ħelsien tal-Poplu</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Folkets revolutionära befrielsefront/parti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>ix-Xellug Rivoluzzjonarju</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Narodna oslobodilačka revolucionarna vojska/fronta/stranka</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revolucionarna ljevica</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rewolucyjna Ludowa Partia/Front/Armia Wyzwolenia</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Vallankumouksellinen vasemmisto</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Dev Sol</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>SL</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Caminho Luminoso</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sentier lumineux</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Φωτεινό Μονοπάτι</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Den lysande stigen</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Loistava polku</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Den Lysende Sti</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Leuchtender Pfad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Lichtend Pad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sentiero luminoso</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>It-Triq li Tiddi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Светъл път</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Cărarea Luminoasă</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>CL</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Shining Path</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Světlá stezka</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Särav Tee</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fényes Ösvény</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Mirdzošā taka</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Šviečiantis kelias</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Świetlisty Szlak</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Svetlý chodník</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sijoča pot</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>an Chonair Lonrach</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Osvijetljeni put</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Calea Luminoasă</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Сияйната пътека</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sendero Luminoso</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-08-01</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1128 (OJ L247)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Rasheed Bank</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Rashid Bank</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Rasheed Bank</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Rashid Bank</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Haifa Street</street>
+				<city>Baghdad</city>
+				<country>IQ</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Al Masarif Street</street>
+				<city>Baghdad</city>
+				<country>IQ</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-12-02</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2119/2003 (OJ L318)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Rafidain Bank</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Rafidain Bank</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>SD</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>JO</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>GB</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>AE</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>YE</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>IQ</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>offices</street>
+				<city/>
+				<country>EG</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Rashid Street</street>
+				<city>Baghdad/Bagdad</city>
+				<country>IQ</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2003-12-02</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2119/2003 (OJ L318)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Groupe Abu Sayyaf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Abu Sayyaf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Harakat Al Islamiyya</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Sayyaf Group</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gruppo Abu Sayyaf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Abu Sayyaf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Sayyaf Gruppe</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>De Groep Abu Sayyaf</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city/>
+				<country>PH</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Comité de soutien afghan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Comité de Apoio ao Afeganistão</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Αφγανική Επιτροπή Στήριξης</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ahya Ul Turas</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Afghan Support Committee</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>ASC</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Lajnat Ul Masa Eidatul Afghania</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jamiat Ayat-Ur-Rhas Al Islamia</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jamiat Ihya Ul Turath Al Islamia</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Cheprahar Hadda, Mia Omar Sabaqah School</street>
+				<city>Jalabad</city>
+				<country>AF</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>office locations: Headquarters — G. T. Road (probably Grand Trunk Road), near Pushtoon Garhi Pabbi</street>
+				<city>Peshawar</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Al Qa’ida/ Islamic Army</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qaeda</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qaida/Exército islâmico</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Αλ Κάιντα/Ισλαμικός στρατός</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>armée islamique</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Qaida</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>The Base</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>La Base</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Usamah bin Laden Network</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Usamah bin Laden Organisation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Όµιλος για τη Διαφύλαξη των Αγίων Τόπων</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>la base</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Η Βάση</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ал Кайда</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>базата</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Фондация за спасение на исляма</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Група за опазване на светите места</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ислямска армия за освобождение на светите места</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Световен ислямски фронт за джихад срещу евреите и кръстоносците</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Мрежа Осама бин Ладен</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Организация „Осама бин Ладен“</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Kajdá</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>síť Usámy Bin Ládina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>organizace Usámy Bin Ládina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Sieć Osamy Bin Lagena</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizacja Osamy Bin Ladena</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Kaida</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>baza</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamska rešilna fundacija</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Skupina za ohranitev svetih krajev</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamska vojska za osvoboditev svetih krajev</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Svetovna islamska fronta za džihad proti Judom in križarjem</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>mreža Osame bin Ladna</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>organizacija Osame bin Ladna</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Baza</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fundația salvării islamice</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupul pentru păstrarea locurilor sfinte</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Armata islamică de eliberare a locurilor sfinte</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frontul islamic mondial pentru Jihadul împotriva evreilor și a cruciaților</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rețeaua lui Osama ben Laden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizația lui Osama ben Laden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamic Salvation Foundation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>The Group for the Preservation of the Holy Sites</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>The Islamic Army for the Liberation of Holy Places</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>The World Islamic Front for Jihad Against Jews and Crusaders</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Usama Bin Laden Network</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Usama Bin Laden Organisation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fundação da Salvação Islâmica</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo para a Preservação dos Lugares Santos</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Exército Islâmico de Libertação dos Lugares Santos</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Frente Islâmica Mundial para o Jihad Contra os Judeus e os Cruzados</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Rede de Osama bin Laden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organização de Osama bin Laden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Usama Bin Laden Organization</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Osama bin Laden-Netzwerk</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Osama bin Laden-Organisation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Αλ Κάιντα</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ισλαµικό Ίδρυµα Σωτηρίας</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ισλαµικός Στρατός για την Απελευθέρωση των Αγίων Τόπων</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>∆ίκτυο του Οσάµα Μπιν Λάντεν</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Fondation du salut islamique</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Groupe pour la préservation des lieux saints</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Armée islamique pour la libération des lieux saints</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Front islamique mondial pour le Jihad contre les Juifs et les croisés</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Réseau d'Oussama ben Laden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organisation d'Oussama ben Laden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Παγκόσµιο Ισλαµικό Μέτωπο για τον Ιερό Πόλεµο (Τζιχάντ) κατά των Εβραίων και Σταυροφόρων</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qa’ida</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qa’ida/ Ислямска армия</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qa’ida / Islamska vojska</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qa’ida/Armata islamică</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-04-12</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 316/2012 (OJ L103)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Aid Organisation of the Ulema, Pakistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Rasheed Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Ameen Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Amin Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Amin Welfare Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organizzazzjoni tal- Għajnuna tal-Ulema, Pakistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Rashid Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Rasheed Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Ameen Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Madina Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Rashid Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Madina Trust, Pakistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Организация за подпомагане на Ulema, Пакистан</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Kitab Ghar, Darul Ifta Wal Irshad, Nazimbad No 4</street>
+				<city>Karachi</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Kitas Ghar, Nazimabad 4, Dahgel-Iftah</street>
+				<city>Karachi</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road</street>
+				<city>Rawalpindi</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae,Mingora</street>
+				<city>Swat</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar</street>
+				<city>Peshawar</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building</street>
+				<city>Karachi</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>302b-40 Good Earth Court, Opposite Pia Planitarium, Block 13a, Gushan-I Iqbal</street>
+				<city>Karachi</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Jamia Masjid Sulaiman Park Begum Pura</street>
+				<city>Lahore</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Clifton Center, Block 5, 6th floor, Clifton, 617</street>
+				<city>Karachi</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Jamia Maajid, Sulalman Park, Melgium Pura</street>
+				<city>Lahore</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road</street>
+				<city>Mansehra</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Al-Itihaad Al-Islamiya</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>AIAI</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2013-03-26</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 290/2013 (OJ L87)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Египетски ислямско движение</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Нов джихад</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Групата джихад</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Египетски Al-Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Movimento Islâmico Egípcio</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>mouvement islamique égyptien</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Egyptian Islamic Movement</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>New Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jihad Group</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Egyptian Islamic Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Египетски ислямски джихад</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>nouveau Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Jihad égyptien</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jihad islamique égyptien</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Egyptian Al-Jihad</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Al Jamm'ah Al Islamiah Al-Musallah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>GIA</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Islâmico Armado</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gruppo Islamico Armato</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ένοπλη Ισλαµική Οµάδα</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Groupe islamique armé</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupp Islamiku Armat</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Groupe Islamique Armé</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Въоръжена ислямска група</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Armed Islamic Group</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupul islamic armat</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ozbrojená islamská skupina</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Asbat al-Ansar</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Ein el-Hilweh camp</street>
+				<city/>
+				<country>LB</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Harakat Ul-Mujahidin</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Harakat Ul-Mujahideen</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>HUA</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Harakat Ul-Ansar</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Hadith</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Hadid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Faran</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>HUM</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city/>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Armée islamique d'Aden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Esercito islamico di Aden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ισλαµικός στρατός του Άντεν</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Exército Islâmico de Aden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamic Army of Aden</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2002-05-27</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>regulation 881/2002 (OJ L139)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Movimento islamico dell'Uzbekistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ισλαµικό Κίνηµα του Ουζµπεκιστάν</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Mouvement islamique de l'Ouzbékistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>MIU</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Movimento Islâmico do Usbequistão</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>IMU</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islamic Movement of Uzbekistan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>ARMÉE de MOHAMMED</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Army of Mohammed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>ESERCITO DI MAOMETTO</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jaish-I-Momhammed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city/>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>SOCIETÀ COOPERATIVA ISLAMICA</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Ja'miyat Al Ta'awun Al Islamiyya</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jam'yah Ta'awun Al-Islamia</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>SOCIÉTÉ de COOPÉRATION ISLAMIQUE</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>SOCIEDADE DE COOPERAÇÃO ISLÂMICA</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>JIT</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Society of Islamic Cooperation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city>Kandahar City</city>
+				<country>AF</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Либийска ислямска бойна група</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupp Ġellied Iżlamiku Libjan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>LIFG</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Groupe libyen de combat pour l'Islam</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Libyan Islamic Fighting Group</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Islâmico Combatente da Líbia</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city/>
+				<country>LY</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>RABITA TRUST</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Room 9A, Second Floor, Wahdat Road, Education Town</street>
+				<city>Lahore</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street>Wares Colony</street>
+				<city>Lahore</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-04-12</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 316/2012 (OJ L103)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Sociedade da Restauração do Património Islâmico</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Furqan Welfare Foundation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Restauração do Património Social Islâmico do Continente Africano</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Furqan Foundation Welfare Trust</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jamia Ihya Ul Turath</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revival of Islamic Society Heritage on the African Continent</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Jamiat Ihia Al-Turath Al-Islamiya</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>RIHS</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Revival of Islamic Heritage Society</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islami Pärandi Taaselustamise Ühing Aafrika Mandril, Jamia Ihya Ul Turath</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Islami Pärandi Taaselustamise Ühing</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city>office locations: Pakistan</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city>office locations Afghanistan</city>
+				<country>AF</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2015-08-14</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2015/1390 (OJ L215)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Organizația Al-Qaida în Magrebul islamic</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Le Groupe Salafiste pour la Prédiction et le Combat</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Salafista de Prédica e Combate</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Gruppo salafista per la predicazione e il combattimento</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Οµάδα σαλαφιστών µαχητών και ιεροκηρύκων</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>AQIM</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>The Organization of Al-Qaida in the Islamic Maghreb</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Qaïda au Maghreb islamique</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>AQMI</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Grupo Salafista para la Predicación y el Combate</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>GSPC</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Salafist Group for Call and Combat</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al-Qaida organizācija Islama Magrebas valstīs</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organização da Al-Qaida no Magrebe Islâmico</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city/>
+				<country>ML</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>DZ</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>MR</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>MA</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>NE</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>TN</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2012-01-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 34/2012 (OJ L15)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Wafa Humanitarian Organisation</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organização Humanitária Wafa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Organização Al Wafa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>L'organisation humanitaire de Wafa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Wafa Organization</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Wafa Al-Igatha Al-Islamia</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Al Wafa</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Jordan house No 125, Street 54, Phase II Hayatabad</street>
+				<city>Peshawar</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>KW</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>AE</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city/>
+				<country>AF</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2020-09-17</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2020/1297 (OJ L303I)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Hazem, Abdul Hai</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city>Quetta</city>
+				<country>PK</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births>
+			<birth>
+				<dob>1971</dob>
+				<pob>Ghazni</pob>
+				<cob>AF</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2006-08-03</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 1189/2006 (OJ L214)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>passport</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abdul Hai Hazem Abdul Qader</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Hai Hazem</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street>Puli Charkhi Area, District Number 9</street>
+				<city>Kabul City, Kabul Province</city>
+				<country>AF</country>
+				<lor>en</lor>
+			</address>
+			<address>
+				<street/>
+				<city>Iltifat village, Shakardara District,</city>
+				<country>AF</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births>
+			<birth>
+				<dob>1971</dob>
+				<pob/>
+				<cob>AF</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2017-03-10</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2017/404 (OJ L63)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>passport</dty>
+				<did/>
+				<coi>AF</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Nashwan Abd Al-Razzaq Abd Al-Baqi</name1>
+				<name2>Nashwan</name2>
+				<name3>Abd Al-Razzaq</name3>
+				<name4>Abd Al-Baqi</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Hadi al-Taweel</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Abdallah</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abd al-Hadi al-Iraqi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Ayub</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abd al-Muhayman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abd al-Hadi al-Ansari</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdal Al-Hadi Al-Iraqi</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Hadi Arif Ali</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Omar Uthman Mohammed</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1961</dob>
+				<pob>Mosul</pob>
+				<cob>IQ</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2016-01-07</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2016/13 (OJ L4/10)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>00</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abdul Rahman S. Taha</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Rahman S. Taher</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Rahman Said Yasin</name1>
+				<name2>Abdul Rahman Said</name2>
+				<name3/>
+				<name4>Yasin</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Aboud Yasin</name1>
+				<name2>Aboud</name2>
+				<name3/>
+				<name4>Yasin</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Rahman Yasin</name1>
+				<name2>Abdul Rahman</name2>
+				<name3/>
+				<name4>Yasin</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses>
+			<address>
+				<street/>
+				<city/>
+				<country>00</country>
+				<lor>en</lor>
+			</address>
+		</addresses>
+		<date_of_births>
+			<birth>
+				<dob>1960-04-10</dob>
+				<pob>Bloomington, Indiana</pob>
+				<cob>US</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2003-05-19</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 866/2003 (OJ L124)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents>
+			<document>
+				<dty>id</dty>
+				<did/>
+				<coi>US</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+			<document>
+				<dty>other</dty>
+				<did/>
+				<coi>IQ</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+			<document>
+				<dty>passport</dty>
+				<did/>
+				<coi>US</coi>
+				<remarks/>
+				<lor>en</lor>
+			</document>
+		</documents>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Abu Mohamed Al-Masri</name1>
+				<name2>Abu Mohamed</name2>
+				<name3/>
+				<name4>Al-Masri</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Mariam</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdullah Ahmed Abdullah El Alfi</name1>
+				<name2>Abdullah</name2>
+				<name3>Ahmed Abdullah</name3>
+				<name4>El Alfi</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Saleh</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1963-06-06</dob>
+				<pob>Gharbia</pob>
+				<cob>EG</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2004-12-15</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2145/2004 (OJ L370)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Mafouz Walad Al-Walid</name1>
+				<name2>Mafouz</name2>
+				<name3>Walad</name3>
+				<name4>Al-Walid</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs a mauritániai</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs il-Mawritani</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs Mauretańczyk</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Mahfouz Ould Al-Walid</name1>
+				<name2>Mahfouz</name2>
+				<name3>Ould</name3>
+				<name4>Al-Walid</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs el Mauritano</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Khalid Al-Shanqiti</name1>
+				<name2>Khalid</name2>
+				<name3/>
+				<name4>Al-Shanqiti</name4>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs il Mauritano</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs the Mauritanian</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abu Hafs de Mauritaniër</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1975-01-01</dob>
+				<pob/>
+				<cob>MR</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2011-06-21</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 597/2011 (OJ L162)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Agha, Abdul Rahman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1958</dob>
+				<pob>Arghandab district, Kandahar province</pob>
+				<cob>AF</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2017-03-10</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 2017/404 (OJ L63)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Agha, Abdul Rahman</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births>
+			<birth>
+				<dob>1958</dob>
+				<pob>Arghandab district, Kandahar province</pob>
+				<cob>AF</cob>
+				<lor>en</lor>
+			</birth>
+		</date_of_births>
+		<restrictions>
+			<restriction>
+				<dor>2007-07-21</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 859/2007 (OJ L190)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Saiyid Abd al-Man</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Man’am Saiyid</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Manan</name1>
+				<name2/>
+				<name3/>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
+				<name1>Abdul Manan Agha</name1>
+				<name2>Abdul Manan</name2>
+				<name3/>
+				<name4>Agha</name4>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>2013-07-09</dor>
+				<tor>3,30</tor>
+				<sor>EU,US OFAC SDN</sor>
+				<aor>amendment 652/2013 (OJ L189)</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+</natural_persons>

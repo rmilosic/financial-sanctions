@@ -45,7 +45,8 @@ class EuSanctionsParser(SanctionsParser):
                 cob = birthdate.get('countryIso2Code')
 
                 # language of regulation
-                lor = birthdate.get('regulationLanguage')
+                # lor = birthdate.get('regulationLanguage')
+                lor = 'en'
 
                 # new instance of birthdate
                 new_birthdate = SanctionEntityDOB(
@@ -65,8 +66,8 @@ class EuSanctionsParser(SanctionsParser):
                 name2 = name_alias.get('firstName')
                 name3 = name_alias.get('middleName')
                 name4 = name_alias.get('lastName')
-                lor = name_alias.get('regulationLanguage')
-                
+                # lor = name_alias.get('regulationLanguage')
+                lor = 'en'
 
                 new_name_alias = SanctionEntityName(
                     name1=name1,
@@ -88,7 +89,8 @@ class EuSanctionsParser(SanctionsParser):
                 remarks = document.find('remark')
                 if remarks != None:
                     remarks = remarks.text
-                lor = document.get('regulationLanguage')
+                # lor = document.get('regulationLanguage')
+                lor = 'en'
 
                 new_document = SanctionEntityDocument(
                     dty=dty,
@@ -106,8 +108,9 @@ class EuSanctionsParser(SanctionsParser):
                 dor = restriction.get('entryIntoForceDate')
                 tor = "3,30" # todo: ?
                 sor = "EU,US OFAC SDN" # todo: ?
-                aor = str(restriction.get('regulationtype')) + " " + str(restriction.get('numberTitle'))
-                lor = restriction.get('regulationLanguage')
+                aor = str(restriction.get('regulationType')) + " " + str(restriction.get('numberTitle'))
+                # lor = restriction.get('regulationLanguage')
+                lor = 'en'
 
                 new_restriction = SanctionEntityRestriction(
                     dor=dor,
@@ -125,7 +128,8 @@ class EuSanctionsParser(SanctionsParser):
                 street = address.get('street')
                 city = address.get('city')
                 country = address.get('countryIso2Code')
-                lor = address.get('regulationLanguage')
+                # lor = address.get('regulationLanguage')
+                lor = 'en'
 
                 new_address = SanctionEntityAddress(
                     street=street,
