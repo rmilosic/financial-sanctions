@@ -4,10 +4,14 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import logging
 
+
+# create logger
+logger = logging.getLogger('APP LOGGER')
+
 def write_xml_from_parse_result(parsed_sanction_entities):
 
 
-    logging.info('Building consolidated XML')
+    logger.info('Building consolidated XML')
 
     natural_persons = Element('natural_persons')
 
@@ -132,8 +136,8 @@ def write_xml_from_parse_result(parsed_sanction_entities):
 
         f.close()
 
-    logging.info("Consolidated XML 'output_consolidated.xml' written to data/output_files ")
-    
+    logger.info("Consolidated XML 'output_consolidated.xml' written to data/output_files ")
+    logger.info("FINISHED")
 
         
 

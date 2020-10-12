@@ -9,10 +9,10 @@ from parsers.sanctions.un import UnSanctionsParser
 
 from functions import write_xml_from_parse_result
 
+#
 
 def main():
 
-    # create logger
     logger = logging.getLogger('APP LOGGER')
     logger.setLevel(logging.INFO)
 
@@ -21,19 +21,19 @@ def main():
     ch.setLevel(logging.INFO)
 
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    
+
     # add formatter to ch
     ch.setFormatter(formatter)
     # add ch to logger
     logger.addHandler(ch)
 
+
     
-    logger.info('Sanctions app initiated') 
-    
+    logger.info('Sanctions app initiated')
+
 
     # parsers
 
-    logging.info('Starting to parse source files...')
     ofac_parser = OfacSanctionsParser()
     ofac_result = ofac_parser.parse_xml_tree()
 
