@@ -1,6 +1,7 @@
 import sys
 import io
 import os
+import logging
 
 from parsers.sanctions.eu import EuSanctionsParser
 from parsers.sanctions.ofac import OfacSanctionsParser
@@ -11,8 +12,28 @@ from functions import write_xml_from_parse_result
 
 def main():
 
+    # create logger
+    logger = logging.getLogger('APP LOGGER')
+    logger.setLevel(logging.INFO)
+
+    # create console handler and set level to debug
+    ch = logging.StreamHandler()
+    ch.setLevel(logging.INFO)
+
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    
+    # add formatter to ch
+    ch.setFormatter(formatter)
+    # add ch to logger
+    logger.addHandler(ch)
+
+    
+    logger.info('Sanctions app initiated') 
+    
+
     # parsers
 
+    logging.info('Starting to parse source files...')
     ofac_parser = OfacSanctionsParser()
     ofac_result = ofac_parser.parse_xml_tree()
 
@@ -23,8 +44,10 @@ def main():
     un_parser = UnSanctionsParser()
     un_result = un_parser.parse_xml_tree()
 
+
     # join
     final_result = eu_result + ofac_result + un_result
+
 
 
     write_xml_from_parse_result(final_result)
