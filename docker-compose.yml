@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  sanctions-app:
+    build: ./sanctions-app
+    volumes:
+        - ./data:/sanctions-app/data
+
