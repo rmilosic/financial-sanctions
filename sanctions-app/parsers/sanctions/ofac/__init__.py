@@ -75,7 +75,33 @@ class OfacSanctionsParser(SanctionsParser):
 
                 new_sanction_entity.birthdates.append(new_birthdate)
                 
+
+            if sanction_entity.find('export:firstName', ns) is not None or sanction_entity.find('export:lastName', ns) is not None:
+
+                try:
+                    first_name = sanction_entity.find('export:firstName', ns).text
+                except AttributeError as e:
+                    first_name = None
                 
+                try:
+                    last_name = sanction_entity.find('export:lastName', ns).text
+                except AttributeError as e:
+                    last_name = None
+
+                name_combination = ' '.join(filter(None, [first_name, last_name]))
+
+                new_name_alias = SanctionEntityName(
+                        name1=name_combination,
+                        name2=first_name,
+                        name3=last_name,
+                        name4=None,
+                        lor=lor
+                    )
+
+                new_sanction_entity.names.append(new_name_alias)
+
+            
+
             # ------ NAME ALIASES
             name_aliases = sanction_entity.find('export:akaList', ns)
 

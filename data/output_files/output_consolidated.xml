@@ -126463,6 +126463,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Ismail Abdul Salah HANIYA</name1>
+				<name2>Ismail Abdul Salah</name2>
+				<name3>HANIYA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Ismail HANIYA</name1>
 				<name2>Ismail</name2>
 				<name3/>
@@ -126500,6 +126507,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Mohammed ABU TEIR</name1>
+				<name2>Mohammed</name2>
+				<name3>ABU TEIR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Mohammed Mahmud ABU TAIR</name1>
 				<name2>Mohammed Mahmud</name2>
 				<name3/>
@@ -126536,6 +126550,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Jamileh Abdullah AL-SHANTI</name1>
+				<name2>Jamileh Abdullah</name2>
+				<name3>AL-SHANTI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Jameela Abdallah EL-SHANTI</name1>
 				<name2>Jameela Abdallah</name2>
@@ -126581,6 +126602,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Mohammed Jamal NU'MAN ALAEDDIN</name1>
+				<name2>Mohammed Jamal</name2>
+				<name3>NU'MAN ALAEDDIN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Mohamad Nouman ALA AL DIN</name1>
 				<name2>Mohamad Nouman</name2>
 				<name3/>
@@ -126623,7 +126651,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Yasser Daoud MANSOUR</name1>
+				<name2>Yasser Daoud</name2>
+				<name3>MANSOUR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses/>
 		<date_of_births>
 			<birth>
@@ -126646,6 +126682,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Khalil Musa RABAI</name1>
+				<name2>Khalil Musa</name2>
+				<name3>RABAI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Khalil Mussa RABBAI</name1>
 				<name2>Khalil Mussa</name2>
@@ -126676,6 +126719,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Huda Naim AL-QREINAWI</name1>
+				<name2>Huda Naim</name2>
+				<name3>AL-QREINAWI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Houda Naim AL QRENAWI</name1>
 				<name2>Houda Naim</name2>
@@ -126712,7 +126762,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Mahmoud Ahmad AL-RAMAHI</name1>
+				<name2>Mahmoud Ahmad</name2>
+				<name3>AL-RAMAHI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -126742,6 +126800,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Mahmoud Khaled ZAHHAR</name1>
+				<name2>Mahmoud Khaled</name2>
+				<name3>ZAHHAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Mahmoud Khaled AL ZAHAR</name1>
 				<name2>Mahmoud Khaled</name2>
@@ -126773,6 +126838,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Abdul Fattah HASAN DUKHAN</name1>
+				<name2>Abdul Fattah</name2>
+				<name3>HASAN DUKHAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Abdul Fattah HASAN DOUKHAN</name1>
 				<name2>Abdul Fattah</name2>
 				<name3/>
@@ -126801,7 +126873,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Ibrahim Mohammed DAHBOUR</name1>
+				<name2>Ibrahim Mohammed</name2>
+				<name3>DAHBOUR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -126830,7 +126910,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Mariam Mahmoud SALEH</name1>
+				<name2>Mariam Mahmoud</name2>
+				<name3>SALEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -126860,6 +126948,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Fathi Mohammed QAR'AWI</name1>
+				<name2>Fathi Mohammed</name2>
+				<name3>QAR'AWI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Mohammed Fathi QARAWI</name1>
 				<name2>Mohammed Fathi</name2>
@@ -126898,6 +126993,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Anwar Mohammed ZBOUN</name1>
+				<name2>Anwar Mohammed</name2>
+				<name3>ZBOUN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Anwar Muhammad AL-ZBOUN</name1>
 				<name2>Anwar Muhammad</name2>
 				<name3/>
@@ -126935,6 +127037,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Imad Mahmoud NOFAL</name1>
+				<name2>Imad Mahmoud</name2>
+				<name3>NOFAL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Imad Mahmoud NAWFAL</name1>
 				<name2>Imad Mahmoud</name2>
 				<name3/>
@@ -126970,7 +127079,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Omar Mahmoud MATAR</name1>
+				<name2>Omar Mahmoud</name2>
+				<name3>MATAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127000,6 +127117,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Muna Salim Saleh MANSOUR</name1>
+				<name2>Muna Salim Saleh</name2>
+				<name3>MANSOUR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Muna Salem MANSOUR</name1>
 				<name2>Muna Salem</name2>
@@ -127038,6 +127162,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Yahia Abdul Aziz AL-ABADSAH</name1>
+				<name2>Yahia Abdul Aziz</name2>
+				<name3>AL-ABADSAH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Yehia Abdul Aziz EL ABADSA</name1>
 				<name2>Yehia Abdul Aziz</name2>
 				<name3/>
@@ -127073,7 +127204,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Mohammed Maher Yousef BADER</name1>
+				<name2>Mohammed Maher Yousef</name2>
+				<name3>BADER</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127102,7 +127241,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Ayman Hussein DARAGHMEH</name1>
+				<name2>Ayman Hussein</name2>
+				<name3>DARAGHMEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127132,6 +127279,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Fathi Ahmad Mohammad HAMMAD</name1>
+				<name2>Fathi Ahmad Mohammad</name2>
+				<name3>HAMMAD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Fathi Ahmad HAMMAD</name1>
 				<name2>Fathi Ahmad</name2>
@@ -127182,7 +127336,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Mariam Mohammed FARHAT</name1>
+				<name2>Mariam Mohammed</name2>
+				<name3>FARHAT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127212,6 +127374,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Sayyed Salem ABU MSAMEH</name1>
+				<name2>Sayyed Salem</name2>
+				<name3>ABU MSAMEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Sayed Salem ABU MUSAMEH</name1>
 				<name2>Sayed Salem</name2>
@@ -127250,6 +127419,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Marwan Mohammed ABU RAS</name1>
+				<name2>Marwan Mohammed</name2>
+				<name3>ABU RAS</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Merwan Muhammed ABOU RAAS</name1>
 				<name2>Merwan Muhammed</name2>
 				<name3/>
@@ -127287,6 +127463,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Samira Abdullah HALAYQAH</name1>
+				<name2>Samira Abdullah</name2>
+				<name3>HALAYQAH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Sameera Abed Allah HALAYQA</name1>
 				<name2>Sameera Abed Allah</name2>
 				<name3/>
@@ -127322,7 +127505,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Jamal Ismail ISKEIK</name1>
+				<name2>Jamal Ismail</name2>
+				<name3>ISKEIK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127351,7 +127542,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Ali Salim ROUMANIN</name1>
+				<name2>Ali Salim</name2>
+				<name3>ROUMANIN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127380,7 +127579,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Ahmad Yousef ABU HALABIYYE</name1>
+				<name2>Ahmad Yousef</name2>
+				<name3>ABU HALABIYYE</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127409,7 +127616,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Abdul Jaber Mustafa FUQAHA</name1>
+				<name2>Abdul Jaber Mustafa</name2>
+				<name3>FUQAHA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -127440,6 +127655,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Aziz DWEIK</name1>
+				<name2>Aziz</name2>
+				<name3>DWEIK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Aziz Salem Mustada DWAIK</name1>
 				<name2>Aziz Salem Mustada</name2>
 				<name3/>
@@ -127469,6 +127691,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Azzam SALHAB</name1>
+				<name2>Azzam</name2>
+				<name3>SALHAB</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Azzam Numan Rahman SALHAB</name1>
 				<name2>Azzam Numan Rahman</name2>
@@ -127507,6 +127736,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Nizar RAMADAN</name1>
+				<name2>Nizar</name2>
+				<name3>RAMADAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Nizar Abd-Al-Aziz RAMADAN</name1>
 				<name2>Nizar Abd-Al-Aziz</name2>
 				<name3/>
@@ -127536,6 +127772,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Nayef RJOUB</name1>
+				<name2>Nayef</name2>
+				<name3>RJOUB</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Naif Mahmod RAJOUB</name1>
 				<name2>Naif Mahmod</name2>
@@ -127567,6 +127810,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Samir AL-QADI</name1>
+				<name2>Samir</name2>
+				<name3>AL-QADI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Sameer Saleh AL-QADI</name1>
 				<name2>Sameer Saleh</name2>
 				<name3/>
@@ -127596,6 +127846,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Mohammed ABU JHEISHEH</name1>
+				<name2>Mohammed</name2>
+				<name3>ABU JHEISHEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Mohammad Mutlaq ABU JHESHEH</name1>
 				<name2>Mohammad Mutlaq</name2>
@@ -127633,6 +127890,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Hatem QFEISHEH</name1>
+				<name2>Hatem</name2>
+				<name3>QFEISHEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Hatem Rabah KAFEESHEH</name1>
 				<name2>Hatem Rabah</name2>
@@ -127678,6 +127942,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Basem ZA'ARIR</name1>
+				<name2>Basem</name2>
+				<name3>ZA'ARIR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Basim Ahmad ZAAREER</name1>
 				<name2>Basim Ahmad</name2>
 				<name3/>
@@ -127707,6 +127978,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Mohammed AL-TAL</name1>
+				<name2>Mohammed</name2>
+				<name3>AL-TAL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Mohammad Ismail AL-TAL</name1>
 				<name2>Mohammad Ismail</name2>
@@ -127738,6 +128016,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Daoud ABU SEIR</name1>
+				<name2>Daoud</name2>
+				<name3>ABU SEIR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Da'oud Kamal Da'oud ABU SAIR</name1>
 				<name2>Da'oud Kamal Da'oud</name2>
 				<name3/>
@@ -127767,6 +128052,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Hamid Jabir KHUDAIR</name1>
+				<name2>Hamid Jabir</name2>
+				<name3>KHUDAIR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Hamid Sulieman Jabir KHUDAIR</name1>
 				<name2>Hamid Sulieman Jabir</name2>
@@ -127798,6 +128090,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Husni Bourini YASIN</name1>
+				<name2>Husni Bourini</name2>
+				<name3>YASIN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Husni Mohammad Bourini YASIN</name1>
 				<name2>Husni Mohammad Bourini</name2>
 				<name3/>
@@ -127827,6 +128126,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Riyad Ali AMLI</name1>
+				<name2>Riyad Ali</name2>
+				<name3>AMLI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Riyad Ali Mustafa AMLI</name1>
 				<name2>Riyad Ali Mustafa</name2>
@@ -127858,6 +128164,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Ahmad Ali AHMAD</name1>
+				<name2>Ahmad Ali</name2>
+				<name3>AHMAD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Ahmad Ali Ahmad AHMAD</name1>
 				<name2>Ahmad Ali Ahmad</name2>
 				<name3/>
@@ -127887,6 +128200,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Hasan YOUSEF</name1>
+				<name2>Hasan</name2>
+				<name3>YOUSEF</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Hasan Youssef Daoud DAR KHALIL</name1>
 				<name2>Hasan Youssef Daoud</name2>
@@ -127918,6 +128238,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Fadel HAMDAN</name1>
+				<name2>Fadel</name2>
+				<name3>HAMDAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Fadel Mohammad Saleh HAMDAN</name1>
 				<name2>Fadel Mohammad Saleh</name2>
 				<name3/>
@@ -127947,6 +128274,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Mahmoud MUSLEH</name1>
+				<name2>Mahmoud</name2>
+				<name3>MUSLEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Mahmoud Ibrahim Mahmoud MUSLEH</name1>
 				<name2>Mahmoud Ibrahim Mahmoud</name2>
@@ -127978,6 +128312,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Ahmad 'Abd al-Aziz MUBARAK</name1>
+				<name2>Ahmad 'Abd al-Aziz</name2>
+				<name3>MUBARAK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Ahmad Abdel Aziz Saleh MUBARAK</name1>
 				<name2>Ahmad Abdel Aziz Saleh</name2>
 				<name3/>
@@ -128007,6 +128348,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Khaled Tafish THWEIB</name1>
+				<name2>Khaled Tafish</name2>
+				<name3>THWEIB</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Khaled Ibrahim Tafish THOUAIB</name1>
 				<name2>Khaled Ibrahim Tafish</name2>
@@ -128045,6 +128393,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Mahmoud AL-KHATIB</name1>
+				<name2>Mahmoud</name2>
+				<name3>AL-KHATIB</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Mahmoud Daoud Mahmoud AL-KHATIB</name1>
 				<name2>Mahmoud Daoud Mahmoud</name2>
 				<name3/>
@@ -128074,6 +128429,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Khaled Abed YAHIA</name1>
+				<name2>Khaled Abed</name2>
+				<name3>YAHIA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Khaled Said YEHIA</name1>
 				<name2>Khaled Said</name2>
@@ -128112,6 +128474,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Khaled ABU HASSAN</name1>
+				<name2>Khaled</name2>
+				<name3>ABU HASSAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Khaled Suleiman Fayez ABOU HASSAN</name1>
 				<name2>Khaled Suleiman Fayez</name2>
 				<name3/>
@@ -128149,6 +128518,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Abdul Rahman Fahmi ZEIDAN</name1>
+				<name2>Abdul Rahman Fahmi</name2>
+				<name3>ZEIDAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Abdel Rahman Fahmi Rahman ZEIDAN</name1>
 				<name2>Abdel Rahman Fahmi Rahman</name2>
 				<name3/>
@@ -128178,6 +128554,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Riyad RADDAD</name1>
+				<name2>Riyad</name2>
+				<name3>RADDAD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Riyad Mahmoud Sa'eed RADAD</name1>
 				<name2>Riyad Mahmoud Sa'eed</name2>
@@ -128216,6 +128599,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Ahmad ATTOUN</name1>
+				<name2>Ahmad</name2>
+				<name3>ATTOUN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Ahmad Mohammad Ahmad ATTOUN</name1>
 				<name2>Ahmad Mohammad Ahmad</name2>
 				<name3/>
@@ -128253,6 +128643,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Ibrahim ABU SALEM</name1>
+				<name2>Ibrahim</name2>
+				<name3>ABU SALEM</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Ibrahim Said Hasan ABOU SALEM</name1>
 				<name2>Ibrahim Said Hasan</name2>
 				<name3/>
@@ -128282,6 +128679,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Mohammed Saleh TUTAH</name1>
+				<name2>Mohammed Saleh</name2>
+				<name3>TUTAH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Mohammad Omran Saleh TAWTAH</name1>
 				<name2>Mohammad Omran Saleh</name2>
@@ -128320,6 +128724,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Wael AL-HUSSEINI</name1>
+				<name2>Wael</name2>
+				<name3>AL-HUSSEINI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Wael Muhammed ABDUL RAHMAN</name1>
 				<name2>Wael Muhammed</name2>
 				<name3/>
@@ -128357,6 +128768,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Naser ABDUL JAWAD</name1>
+				<name2>Naser</name2>
+				<name3>ABDUL JAWAD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Nasir Abdullah Odeh ABDEL JAWAD</name1>
 				<name2>Nasir Abdullah Odeh</name2>
 				<name3/>
@@ -128386,6 +128804,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Khaled ABU TOS</name1>
+				<name2>Khaled</name2>
+				<name3>ABU TOS</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Khalid Hamad Hamid ABU QOUS</name1>
 				<name2>Khalid Hamad Hamid</name2>
@@ -128417,6 +128842,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Khamis NAJJAR</name1>
+				<name2>Khamis</name2>
+				<name3>NAJJAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Khamis Jawdat Khamis NAJJAR</name1>
 				<name2>Khamis Jawdat Khamis</name2>
 				<name3/>
@@ -128446,6 +128878,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Salah AL-BARDAWIL</name1>
+				<name2>Salah</name2>
+				<name3>AL-BARDAWIL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Salah Mohammad EL BARDAWIL</name1>
 				<name2>Salah Mohammad</name2>
@@ -128477,6 +128916,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Younes AL-ASTAL</name1>
+				<name2>Younes</name2>
+				<name3>AL-ASTAL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Younis Mohe-eldeen Fayez EL-ASTAL</name1>
 				<name2>Younis Mohe-eldeen Fayez</name2>
 				<name3/>
@@ -128506,6 +128952,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Abdul Rahman AL-JAMAL</name1>
+				<name2>Abdul Rahman</name2>
+				<name3>AL-JAMAL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Abdel Al-Rahman Yusef AL-JAMAL</name1>
 				<name2>Abdel Al-Rahman Yusef</name2>
@@ -128537,6 +128990,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Salem SALAMEH</name1>
+				<name2>Salem</name2>
+				<name3>SALAMEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Salem Ahmad Abdel Hadi SALAMEH</name1>
 				<name2>Salem Ahmad Abdel Hadi</name2>
 				<name3/>
@@ -128566,6 +129026,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Saeed SIAM</name1>
+				<name2>Saeed</name2>
+				<name3>SIAM</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Said Mohammad SEYAM</name1>
 				<name2>Said Mohammad</name2>
@@ -128611,6 +129078,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Ahmad BAHAR</name1>
+				<name2>Ahmad</name2>
+				<name3>BAHAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Ahmed Mohamed BAHAR</name1>
 				<name2>Ahmed Mohamed</name2>
 				<name3/>
@@ -128640,6 +129114,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Jamal SALEH</name1>
+				<name2>Jamal</name2>
+				<name3>SALEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Jamal Talab Mohammad Saleh NASSER</name1>
 				<name2>Jamal Talab Mohammad Saleh</name2>
@@ -128678,6 +129159,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Khalil AL-HAYYEH</name1>
+				<name2>Khalil</name2>
+				<name3>AL-HAYYEH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Khalil Esmaeel ELHYYA</name1>
 				<name2>Khalil Esmaeel</name2>
 				<name3/>
@@ -128708,6 +129196,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Mohammed Faraj AL-GHOUL</name1>
+				<name2>Mohammed Faraj</name2>
+				<name3>AL-GHOUL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Mohammad Faraj Mahmood ELGHOUL</name1>
 				<name2>Mohammad Faraj Mahmood</name2>
 				<name3/>
@@ -128737,6 +129232,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Mushir AL-HABAL</name1>
+				<name2>Mushir</name2>
+				<name3>AL-HABAL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Moshir Omar ELHABEL</name1>
 				<name2>Moshir Omar</name2>
@@ -128775,6 +129277,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Atef UDWAN</name1>
+				<name2>Atef</name2>
+				<name3>UDWAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Atef Ibrahim ADWAN</name1>
 				<name2>Atef Ibrahim</name2>
 				<name3/>
@@ -128812,6 +129321,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Yousef AL-SHARAFI</name1>
+				<name2>Yousef</name2>
+				<name3>AL-SHARAFI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Yousef Awad AL-SHRAFI</name1>
 				<name2>Yousef Awad</name2>
 				<name3/>
@@ -128841,6 +129357,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Ismail AL-ASHQAR</name1>
+				<name2>Ismail</name2>
+				<name3>AL-ASHQAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>Ismail Abdallatif AL-ALASHQAR</name1>
 				<name2>Ismail Abdallatif</name2>
@@ -128872,6 +129395,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Mohammed SHIHAB</name1>
+				<name2>Mohammed</name2>
+				<name3>SHIHAB</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Mohamed Abed Hadi Rahman SHEHAB</name1>
 				<name2>Mohamed Abed Hadi Rahman</name2>
 				<name3/>
@@ -128900,52 +129430,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
-		<addresses/>
-		<date_of_births/>
-		<restrictions>
-			<restriction>
-				<dor>03/17/2020</dor>
-				<tor>30</tor>
-				<sor>US OFAC SDN</sor>
-				<aor>US Act - OFAC SDN - NS-PLC</aor>
+		<names>
+			<name>
+				<name1>Ahmad SA'DAT</name1>
+				<name2>Ahmad</name2>
+				<name3>SA'DAT</name3>
+				<name4/>
 				<lor>en</lor>
-			</restriction>
-		</restrictions>
-		<documents/>
-	</person>
-	<person>
-		<names/>
-		<addresses/>
-		<date_of_births/>
-		<restrictions>
-			<restriction>
-				<dor>03/17/2020</dor>
-				<tor>30</tor>
-				<sor>US OFAC SDN</sor>
-				<aor>US Act - OFAC SDN - NS-PLC</aor>
-				<lor>en</lor>
-			</restriction>
-		</restrictions>
-		<documents/>
-	</person>
-	<person>
-		<names/>
-		<addresses/>
-		<date_of_births/>
-		<restrictions>
-			<restriction>
-				<dor>03/17/2020</dor>
-				<tor>30</tor>
-				<sor>US OFAC SDN</sor>
-				<aor>US Act - OFAC SDN - NS-PLC</aor>
-				<lor>en</lor>
-			</restriction>
-		</restrictions>
-		<documents/>
-	</person>
-	<person>
-		<names/>
+			</name>
+		</names>
 		<addresses/>
 		<date_of_births/>
 		<restrictions>
@@ -128961,6 +129454,82 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>Jamil MAJDALAWI</name1>
+				<name2>Jamil</name2>
+				<name3>MAJDALAWI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>03/17/2020</dor>
+				<tor>30</tor>
+				<sor>US OFAC SDN</sor>
+				<aor>US Act - OFAC SDN - NS-PLC</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Khaledah JARRAR</name1>
+				<name2>Khaledah</name2>
+				<name3>JARRAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>03/17/2020</dor>
+				<tor>30</tor>
+				<sor>US OFAC SDN</sor>
+				<aor>US Act - OFAC SDN - NS-PLC</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>Qais Abdul KARIM</name1>
+				<name2>Qais Abdul</name2>
+				<name3>KARIM</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
+		<addresses/>
+		<date_of_births/>
+		<restrictions>
+			<restriction>
+				<dor>03/17/2020</dor>
+				<tor>30</tor>
+				<sor>US OFAC SDN</sor>
+				<aor>US Act - OFAC SDN - NS-PLC</aor>
+				<lor>en</lor>
+			</restriction>
+		</restrictions>
+		<documents/>
+	</person>
+	<person>
+		<names>
+			<name>
+				<name1>BANK OF KUNLUN CO LTD</name1>
+				<name2/>
+				<name3>BANK OF KUNLUN CO LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>KARAMAY URBAN CREDIT COOPERATIVES</name1>
 				<name2/>
@@ -129006,6 +129575,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB BANK OAO</name1>
+				<name2/>
+				<name3>VTB BANK OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JSC VTB BANK</name1>
 				<name2/>
@@ -129150,6 +129726,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>RUSSIAN AGRICULTURAL BANK</name1>
+				<name2/>
+				<name3>RUSSIAN AGRICULTURAL BANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RUSSIAN AGRICULTURAL BANK OAO</name1>
 				<name2/>
 				<name3/>
@@ -129244,6 +129827,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VNESHECONOMBANK</name1>
+				<name2/>
+				<name3>VNESHECONOMBANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VEB</name1>
 				<name2/>
 				<name3/>
@@ -129323,6 +129913,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROMBANK OAO</name1>
+				<name2/>
+				<name3>GAZPROMBANK OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROMBANK OTKRYTOE AKTSIONERNOE OBSHCHESTVO</name1>
 				<name2/>
@@ -129439,6 +130036,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BANK OF MOSCOW</name1>
+				<name2/>
+				<name3>BANK OF MOSCOW</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW, OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -129533,6 +130137,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SBERBANK OF RUSSIA</name1>
+				<name2/>
+				<name3>SBERBANK OF RUSSIA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>SBERBANK ROSSII</name1>
 				<name2/>
 				<name3/>
@@ -129605,6 +130216,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY</name1>
+				<name2/>
+				<name3>OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OJSC ROSNEFT OIL COMPANY</name1>
 				<name2/>
@@ -129721,6 +130339,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OAO NOVATEK</name1>
+				<name2/>
+				<name3>OAO NOVATEK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>FINANSOVO-INVESTITSIONNAYA KOMPANIYA NOVAFININVEST OAO</name1>
 				<name2/>
 				<name3/>
@@ -129786,6 +130411,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OJSC GAZPROM NEFT</name1>
+				<name2/>
+				<name3>OJSC GAZPROM NEFT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SIBIRSKAYA NEFTYANAYA KOMPANIYA OAO</name1>
 				<name2/>
@@ -129909,6 +130541,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SURGUTNEFTEGAS</name1>
+				<name2/>
+				<name3>SURGUTNEFTEGAS</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OPEN JOINT STOCK COMPANY SURGUTNEFTEGAS</name1>
 				<name2/>
 				<name3/>
@@ -129988,6 +130627,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>LUKOIL OAO</name1>
+				<name2/>
+				<name3>LUKOIL OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LUKOIL OIL COMPANY</name1>
 				<name2/>
@@ -130083,6 +130729,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OPEN JOINT STOCK COMPANY GAZPROM</name1>
+				<name2/>
+				<name3>OPEN JOINT STOCK COMPANY GAZPROM</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OAO GAZPROM</name1>
 				<name2/>
 				<name3/>
@@ -130162,6 +130815,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AK TRANSNEFT OAO</name1>
+				<name2/>
+				<name3>AK TRANSNEFT OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OAO AK TRANSNEFT</name1>
 				<name2/>
@@ -130271,6 +130931,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ROSTEC</name1>
+				<name2/>
+				<name3>ROSTEC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>STATE CORPORATION FOR ASSISTANCE TO DEVELOPMENT, PRODUCTION AND EXPORT OF ADVANCED TECHNOLOGY INDUSTRIAL PRODUCT ROSTEKHNOLOGII</name1>
 				<name2/>
 				<name3/>
@@ -130377,7 +131044,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Halis BEKTAS</name1>
+				<name2>Halis</name2>
+				<name3>BEKTAS</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses/>
 		<date_of_births>
 			<birth>
@@ -130407,7 +131082,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>RIXO INTERNATIONAL TRADING LTD.</name1>
+				<name2/>
+				<name3>RIXO INTERNATIONAL TRADING LTD.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Lindenstrasse 2</street>
@@ -130438,6 +131121,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>STAROIL B.V.</name1>
+				<name2/>
+				<name3>STAROIL B.V.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>STAROIL S.A.</name1>
 				<name2/>
@@ -130491,6 +131181,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>Alexander HOLLEBRAND</name1>
+				<name2>Alexander</name2>
+				<name3>HOLLEBRAND</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>Sander HOLLEBRAND</name1>
 				<name2>Sander</name2>
 				<name3/>
@@ -130519,7 +131216,15 @@
 		<documents/>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Paul VAN MAZIJK</name1>
+				<name2>Paul</name2>
+				<name3>VAN MAZIJK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses/>
 		<date_of_births>
 			<birth>
@@ -130550,6 +131255,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OJSC ORENBURGNEFT</name1>
+				<name2/>
+				<name3>OJSC ORENBURGNEFT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>ORENBURGNEFT</name1>
 				<name2/>
@@ -130609,6 +131321,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>EXIMBANK OF RUSSIA</name1>
+				<name2/>
+				<name3>EXIMBANK OF RUSSIA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>ROSEKSIMBANK, ZAO</name1>
 				<name2/>
@@ -130690,6 +131409,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OJSC SAMOTLORNEFTEGAZ</name1>
+				<name2/>
+				<name3>OJSC SAMOTLORNEFTEGAZ</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>SAMOTLORNEFTEGAZ JSC</name1>
 				<name2/>
 				<name3/>
@@ -130748,6 +131474,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>DEVELOPMENT CORPORATION OF NORTH CAUCASUS OJSC</name1>
+				<name2/>
+				<name3>DEVELOPMENT CORPORATION OF NORTH CAUCASUS OJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OJSC NORTH CAUCASUS DEVELOPMENT CORPORATION</name1>
 				<name2/>
@@ -130822,6 +131555,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>PJSC VERKHNECHONSKNEFTEGAZ</name1>
+				<name2/>
+				<name3>PJSC VERKHNECHONSKNEFTEGAZ</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VERKHNECHONSKNEFTEGAZ</name1>
 				<name2/>
 				<name3/>
@@ -130880,6 +131620,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>EXIAR</name1>
+				<name2/>
+				<name3>EXIAR</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>EKSAR OAO</name1>
 				<name2/>
@@ -130954,6 +131701,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>FAR EAST AND BAIKAL REGION DEVELOPMENT FUND OJSC</name1>
+				<name2/>
+				<name3>FAR EAST AND BAIKAL REGION DEVELOPMENT FUND OJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OPEN JOINT-STOCK COMPANY THE FAR EAST AND BAIKAL REGION DEVELOPMENT FUND</name1>
 				<name2/>
 				<name3/>
@@ -131027,6 +131781,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>CJSC VANKORNEFT</name1>
+				<name2/>
+				<name3>CJSC VANKORNEFT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VANKORNEFT</name1>
 				<name2/>
 				<name3/>
@@ -131085,6 +131846,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>FEDERAL CENTER FOR PROJECT FINANCE</name1>
+				<name2/>
+				<name3>FEDERAL CENTER FOR PROJECT FINANCE</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>FTSPF, OAO</name1>
 				<name2/>
@@ -131159,6 +131927,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>RN-YUGANSKNEFTEGAZ LLC</name1>
+				<name2/>
+				<name3>RN-YUGANSKNEFTEGAZ LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>YUGANSKNEFTEGAZ</name1>
 				<name2/>
 				<name3/>
@@ -131217,6 +131992,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GLOBEXBANK</name1>
+				<name2/>
+				<name3>GLOBEXBANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GLOBEX COMMERCIAL BANK, JOINT STOCK COMPANY</name1>
 				<name2/>
@@ -131305,6 +132087,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KRASLESINVEST CJSC</name1>
+				<name2/>
+				<name3>KRASLESINVEST CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>KRASLESINVEST, ZAO</name1>
 				<name2/>
 				<name3/>
@@ -131377,6 +132166,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>RUSSIAN DIRECT INVESTMENT FUND MANAGEMENT COMPANY</name1>
+				<name2/>
+				<name3>RUSSIAN DIRECT INVESTMENT FUND MANAGEMENT COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LIMITED LIABILITY COMPANY RDIF MANAGEMENT COMPANY</name1>
 				<name2/>
@@ -131465,6 +132261,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OJSC ANGARSK PETROCHEMICAL COMPANY</name1>
+				<name2/>
+				<name3>OJSC ANGARSK PETROCHEMICAL COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ANGARSK REFINERY</name1>
 				<name2/>
 				<name3/>
@@ -131523,6 +132326,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>RESAD LLC</name1>
+				<name2/>
+				<name3>RESAD LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RESAD, OOO</name1>
 				<name2/>
@@ -131583,6 +132393,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OJSC NOVOKUYBYSHEV REFINERY</name1>
+				<name2/>
+				<name3>OJSC NOVOKUYBYSHEV REFINERY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NOVOKUIBYSHEVSK REFINERY</name1>
 				<name2/>
 				<name3/>
@@ -131641,6 +132458,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SME BANK</name1>
+				<name2/>
+				<name3>SME BANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JSC RUSSIAN BANK FOR SMALL AND MEDIUM ENTERPRISES SUPPORT</name1>
 				<name2/>
@@ -131729,6 +132553,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>RN-KOMSOMOLSKY REFINERY LLC</name1>
+				<name2/>
+				<name3>RN-KOMSOMOLSKY REFINERY LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RN-KOMSOMOLSKI NPZ OOO</name1>
 				<name2/>
 				<name3/>
@@ -131794,6 +132625,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SVIAZ-BANK</name1>
+				<name2/>
+				<name3>SVIAZ-BANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SVIAZ-BANK AKB PAO</name1>
 				<name2/>
@@ -131867,6 +132705,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VEB CAPITAL</name1>
+				<name2/>
+				<name3>VEB CAPITAL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>VEB CAPITAL LLC</name1>
 				<name2/>
@@ -131948,6 +132793,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VEB ENGINEERING LLC</name1>
+				<name2/>
+				<name3>VEB ENGINEERING LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VEB INZHINIRING, OOO</name1>
 				<name2/>
 				<name3/>
@@ -132006,6 +132858,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VEB LEASING OJSC</name1>
+				<name2/>
+				<name3>VEB LEASING OJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>VEB-LIZING, OAO</name1>
 				<name2/>
@@ -132080,6 +132939,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ROSE GROUP LIMITED</name1>
+				<name2/>
+				<name3>ROSE GROUP LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RGI INTERNATIONAL LIMITED</name1>
 				<name2/>
 				<name3/>
@@ -132138,6 +133004,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OJSC SYZRAN REFINERY</name1>
+				<name2/>
+				<name3>OJSC SYZRAN REFINERY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SYZRAN REFINERY</name1>
 				<name2/>
@@ -132198,6 +133071,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BANK BELVEB OJSC</name1>
+				<name2/>
+				<name3>BANK BELVEB OJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -132257,6 +133137,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OJSC ACHINSK REFINERY</name1>
+				<name2/>
+				<name3>OJSC ACHINSK REFINERY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ACHINSK REFINERY</name1>
 				<name2/>
 				<name3/>
@@ -132315,6 +133202,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>PROMINVESTBANK</name1>
+				<name2/>
+				<name3>PROMINVESTBANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>PSC PROMINVESTBANK</name1>
 				<name2/>
@@ -132389,6 +133283,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OJSC KUYBYSHEV REFINERY</name1>
+				<name2/>
+				<name3>OJSC KUYBYSHEV REFINERY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>KUIBYSHEV REFINERY</name1>
 				<name2/>
 				<name3/>
@@ -132446,7 +133347,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>VEB ASIA LIMITED</name1>
+				<name2/>
+				<name3>VEB ASIA LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Suite 5808 58/F, Two International Finance Center 8 Finance Street Central</street>
@@ -132477,6 +133386,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OJSC RN HOLDING</name1>
+				<name2/>
+				<name3>OJSC RN HOLDING</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RN HOLDING OAO</name1>
 				<name2/>
@@ -132544,6 +133460,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NEFT-AKTIV LLC</name1>
+				<name2/>
+				<name3>NEFT-AKTIV LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RN-AKTIV OOO</name1>
 				<name2/>
 				<name3/>
@@ -132595,6 +133518,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OJSC RUSSIAN REGIONAL DEVELOPMENT BANK</name1>
+				<name2/>
+				<name3>OJSC RUSSIAN REGIONAL DEVELOPMENT BANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RUSSIAN REGIONAL DEVELOPMENT BANK</name1>
 				<name2/>
@@ -132660,7 +133590,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>ROSNEFT TRADING S.A.</name1>
+				<name2/>
+				<name3>ROSNEFT TRADING S.A.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Rue Place du Lac 2, 1204</street>
@@ -132720,6 +133658,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ROSNEFT TRADE LIMITED</name1>
+				<name2/>
+				<name3>ROSNEFT TRADE LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>TNK TRADE LIMITED</name1>
 				<name2/>
 				<name3/>
@@ -132777,7 +133722,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>ROSNEFT FINANCE S.A.</name1>
+				<name2/>
+				<name3>ROSNEFT FINANCE S.A.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>46A Avenue John F Kennedy 2nd Floor</street>
@@ -132815,6 +133768,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SBERBANK CAPITAL LLC</name1>
+				<name2/>
+				<name3>SBERBANK CAPITAL LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LLC SBERBANK CAPITAL</name1>
 				<name2/>
@@ -132882,6 +133842,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SBERBANK INVESTMENTS LLC</name1>
+				<name2/>
+				<name3>SBERBANK INVESTMENTS LLC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC SBERBANK INVESTMENTS</name1>
 				<name2/>
 				<name3/>
@@ -132926,6 +133893,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SBERBANK LEASING CJSC</name1>
+				<name2/>
+				<name3>SBERBANK LEASING CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CJSC SBERBANK LEASING</name1>
 				<name2/>
@@ -133007,6 +133981,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>CETELEM BANK LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>CETELEM BANK LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CETELEM BANK LLC</name1>
 				<name2/>
 				<name3/>
@@ -133087,6 +134068,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OOO PS YANDEX.MONEY</name1>
+				<name2/>
+				<name3>OOO PS YANDEX.MONEY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC PS YANDEX.MONEY</name1>
 				<name2/>
 				<name3/>
@@ -133138,6 +134126,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SB SBERBANK JSC</name1>
+				<name2/>
+				<name3>SB SBERBANK JSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY</name1>
 				<name2/>
@@ -133191,6 +134186,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BPS-SBERBANK</name1>
+				<name2/>
+				<name3>BPS-SBERBANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OJSC BPS-SBERBANK</name1>
 				<name2/>
 				<name3/>
@@ -133242,6 +134244,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>JSC SBERBANK OF RUSSIA</name1>
+				<name2/>
+				<name3>JSC SBERBANK OF RUSSIA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SUBSIDIARY BANK SBERBANK OF RUSSIA PUBLIC JOINT-STOCK COMPANY</name1>
 				<name2/>
@@ -133328,7 +134337,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>SBERBANK EUROPE AG</name1>
+				<name2/>
+				<name3>SBERBANK EUROPE AG</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Schwarzenbergplatz 3</street>
@@ -133379,7 +134396,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>SBERBANK (SWITZERLAND) AG</name1>
+				<name2/>
+				<name3>SBERBANK (SWITZERLAND) AG</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Gartenstrasse 24</street>
@@ -133437,7 +134462,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>SB INTERNATIONAL SARL</name1>
+				<name2/>
+				<name3>SB INTERNATIONAL SARL</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Avenue J.F. Kennedy 46a</street>
@@ -133475,6 +134508,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>BANK VTB 24 PUBLIC JOINT STOCK COMPANY</name1>
+				<name2/>
+				<name3>BANK VTB 24 PUBLIC JOINT STOCK COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>BANK VTB 24 PUBLICHNOE AKTSIONERNOE OBSHCHESTVO</name1>
 				<name2/>
@@ -133563,6 +134603,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>PJSC VTB BANK (KIEV)</name1>
+				<name2/>
+				<name3>PJSC VTB BANK (KIEV)</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VTB BANK, PUBLIC JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -133650,6 +134697,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB BANK (BELARUS), CJSC</name1>
+				<name2/>
+				<name3>VTB BANK (BELARUS), CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VTB BANK (BELARUS) CLOSED JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -133723,6 +134777,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB BANK (ARMENIA), CJSC</name1>
+				<name2/>
+				<name3>VTB BANK (ARMENIA), CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VTB BANK (ARMENIA) CJSC</name1>
 				<name2/>
 				<name3/>
@@ -133782,6 +134843,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BANK VTB (KAZAKHSTAN), JSC</name1>
+				<name2/>
+				<name3>BANK VTB (KAZAKHSTAN), JSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>SUBSIDIARY JSC BANK VTB (KAZAKHSTAN)</name1>
 				<name2/>
 				<name3/>
@@ -133840,6 +134908,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB BANK (AZERBAIJAN), OJSC</name1>
+				<name2/>
+				<name3>VTB BANK (AZERBAIJAN), OJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>BANK VTB (AZERBAIJAN) OJSC</name1>
 				<name2/>
@@ -133907,6 +134982,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BANCO VTB AFRICA, S.A.</name1>
+				<name2/>
+				<name3>BANCO VTB AFRICA, S.A.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VTB AFRICA</name1>
 				<name2/>
 				<name3/>
@@ -133958,6 +135040,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB BANK (GEORGIA), JSC</name1>
+				<name2/>
+				<name3>VTB BANK (GEORGIA), JSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JSC VTB BANK (GEORGIA)</name1>
 				<name2/>
@@ -134023,7 +135112,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>VTB BANK (AUSTRIA) AG</name1>
+				<name2/>
+				<name3>VTB BANK (AUSTRIA) AG</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Parking 6, PO Box 560</street>
@@ -134075,6 +135172,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB BANK JSC BELGRADE</name1>
+				<name2/>
+				<name3>VTB BANK JSC BELGRADE</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>VTB BANKA AD BEOGRAD</name1>
 				<name2/>
@@ -134134,6 +135238,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB CAPITAL HOLDING CJSC</name1>
+				<name2/>
+				<name3>VTB CAPITAL HOLDING CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>KHOLDING VTB KAPITAL ZAKRYTOE AKTSIONERNOE OBSHCHESTVO</name1>
 				<name2/>
@@ -134201,6 +135312,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB PENSION ADMINISTRATOR, LIMITED</name1>
+				<name2/>
+				<name3>VTB PENSION ADMINISTRATOR, LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VTB PENSION ADMINISTRATOR, LTD</name1>
 				<name2/>
 				<name3/>
@@ -134258,7 +135376,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>VTB DC, LTD</name1>
+				<name2/>
+				<name3>VTB DC, LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Room 47, office XIV, 8 Brestskaya Street</street>
@@ -134289,6 +135415,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB INSURANCE LIMITED</name1>
+				<name2/>
+				<name3>VTB INSURANCE LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>VTB STRAKHOVANIE STRAKHOVAYA KOMPANIYA OOO</name1>
 				<name2/>
@@ -134370,6 +135503,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB FACTORING, LTD</name1>
+				<name2/>
+				<name3>VTB FACTORING, LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB FAKTORING</name1>
 				<name2/>
 				<name3/>
@@ -134435,6 +135575,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NPF VTB PENSION FUND, JSC</name1>
+				<name2/>
+				<name3>NPF VTB PENSION FUND, JSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>NONPROFIT ORGANIZATION NON-STATE PENSION FUND VTB PENSION FUND</name1>
 				<name2/>
@@ -134509,6 +135656,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB REAL ESTATE LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>VTB REAL ESTATE LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB NEDVIZHIMOST</name1>
 				<name2/>
 				<name3/>
@@ -134568,6 +135722,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB SPECIALIZED DEPOSITORY, CJSC</name1>
+				<name2/>
+				<name3>VTB SPECIALIZED DEPOSITORY, CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CJS VTB SPECIALIZED DEPOSITORY</name1>
 				<name2/>
 				<name3/>
@@ -134613,6 +135774,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VTB REGISTRAR, CJSC</name1>
+				<name2/>
+				<name3>VTB REGISTRAR, CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VTB REGISTRAR</name1>
 				<name2/>
 				<name3/>
@@ -134657,6 +135825,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>MULTICARTA</name1>
+				<name2/>
+				<name3>MULTICARTA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU MULTIKARTA</name1>
 				<name2/>
@@ -134723,6 +135898,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VTB LEASING OPEN JOINT-STOCK COMPANY</name1>
+				<name2/>
+				<name3>VTB LEASING OPEN JOINT-STOCK COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>VTB LIZING, OTKRYTOE AKTSIONERNOE OBSHCHESTVO</name1>
 				<name2/>
@@ -134796,6 +135978,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>JOINT STOCK COMPANY HALS-DEVELOPMENT</name1>
+				<name2/>
+				<name3>JOINT STOCK COMPANY HALS-DEVELOPMENT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>HALS-DEVELOPMENT JSC</name1>
 				<name2/>
@@ -134884,6 +136073,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AUCTION LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>AUCTION LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC AUKCION</name1>
 				<name2/>
 				<name3/>
@@ -134957,6 +136153,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>RUST CLOSED JOINT-STOCK COMPANY</name1>
+				<name2/>
+				<name3>RUST CLOSED JOINT-STOCK COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CJSC RUST</name1>
 				<name2/>
 				<name3/>
@@ -135022,6 +136225,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>JSC SBERBANK-AUTOMATED SYSTEM FOR TRADING</name1>
+				<name2/>
+				<name3>JSC SBERBANK-AUTOMATED SYSTEM FOR TRADING</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SBERBANK - AUTOMATED TRADING SYSTEM CLOSED JOINT-STOCK COMPANY</name1>
 				<name2/>
@@ -135096,6 +136306,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SBERBANK FINANCE COMPANY LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>SBERBANK FINANCE COMPANY LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC SBERBANK FINANCIAL COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -135162,6 +136379,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>LLC SOVREMENNYE TECHNOLOGII</name1>
+				<name2/>
+				<name3>LLC SOVREMENNYE TECHNOLOGII</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>MODERN TECHNOLOGIES LIMITED LIABILITY COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -135220,6 +136444,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SBERBANK TECHNOLOGIES CLOSED JOINT STOCK COMPANY</name1>
+				<name2/>
+				<name3>SBERBANK TECHNOLOGIES CLOSED JOINT STOCK COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CJSC SBERBANK-TECHNOLOGY</name1>
 				<name2/>
@@ -135287,6 +136518,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BYLINNYE BOGATYRI LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>BYLINNYE BOGATYRI LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC BYLINNYE BOGATYRI</name1>
 				<name2/>
 				<name3/>
@@ -135331,6 +136569,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>ACTIVEBUSINESSCOLLECTION LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>ACTIVEBUSINESSCOLLECTION LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LLC ACTIVEBUSINESSCOLLECTION</name1>
 				<name2/>
@@ -135397,6 +136642,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NON-STATE PENSION FUND OF SBERBANK</name1>
+				<name2/>
+				<name3>NON-STATE PENSION FUND OF SBERBANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CJSC NON-STATE PENSION FUND OF SBERBANK</name1>
 				<name2/>
@@ -135478,6 +136730,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SBERBANK INSURANCE COMPANY LTD</name1>
+				<name2/>
+				<name3>SBERBANK INSURANCE COMPANY LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC INSURANCE COMPANY SBERBANK INSURANCE</name1>
 				<name2/>
 				<name3/>
@@ -135551,6 +136810,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SBERBANK INSURANCE BROKER LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>SBERBANK INSURANCE BROKER LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC INSURANCE BROKER OF SBERBANK</name1>
 				<name2/>
 				<name3/>
@@ -135617,6 +136883,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KORUS CONSULTING CIS LIMITED LIABILITY COMPANY</name1>
+				<name2/>
+				<name3>KORUS CONSULTING CIS LIMITED LIABILITY COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLL KORUS CONSULTING CIS</name1>
 				<name2/>
 				<name3/>
@@ -135674,7 +136947,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>SB SECURITIES S.A.</name1>
+				<name2/>
+				<name3>SB SECURITIES S.A.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Boulevard Konrad Adenauer 2</street>
@@ -135712,6 +136993,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>RT - GLOBALNYE RESURSY OOO</name1>
+				<name2/>
+				<name3>RT - GLOBALNYE RESURSY OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RT GLOBAL RESOURCES</name1>
 				<name2/>
@@ -135792,6 +137080,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NPO VYSOKOTOCHNYE KOMPLEKSY</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NPO VYSOKOTOCHNYE KOMPLEKSY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>NPO VYSOKOTOCHNYE KOMPLEKSY, OAO</name1>
 				<name2/>
@@ -135936,6 +137231,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ROSSISKAYA ELEKTRONIKA OAO</name1>
+				<name2/>
+				<name3>ROSSISKAYA ELEKTRONIKA OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ROSELEKTRONIKA OAO</name1>
 				<name2/>
 				<name3/>
@@ -136058,6 +137360,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>JOINT STOCK COMPANY FOREIGN ECONOMIC ASSOCIATION TECHNOPROMEXPORT</name1>
 				<name2/>
 				<name3/>
@@ -136165,6 +137474,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNY KONTSERN TEKHNOLOGII MASHINOSTROENIYA</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNY KONTSERN TEKHNOLOGII MASHINOSTROENIYA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JOINT STOCK COMPANY SCIENTIFIC INDUSTRIAL CONCERN MANUFACTURING ENGINEERING</name1>
 				<name2/>
@@ -136302,6 +137618,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO KONTSERN AVIATSIONNOE OBORUDOVANIE</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO KONTSERN AVIATSIONNOE OBORUDOVANIE</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>JOINT STOCK COMPANY CONCERN OF AVIATION EQUIPMENT</name1>
 				<name2/>
 				<name3/>
@@ -136395,6 +137718,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO TEKHNODINAMIKA</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO TEKHNODINAMIKA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JOINT STOCK COMPANY AVIATION EQUIPMENT</name1>
 				<name2/>
@@ -136490,6 +137820,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO RT-STANKOINSTRUMENT</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO RT-STANKOINSTRUMENT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RT-STANKOINSTRUMENT, OAO</name1>
 				<name2/>
 				<name3/>
@@ -136583,6 +137920,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO RT-KHIMICHESKIE TEKHNOLOGII I KOMPOZITSIONNYE MATERIALY</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO RT-KHIMICHESKIE TEKHNOLOGII I KOMPOZITSIONNYE MATERIALY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JOINT STOCK COMPANY RT-CHEMICAL TECHNOLOGIES AND COMPOSITE MATERIALS</name1>
 				<name2/>
@@ -136692,6 +138036,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO RT-BIOTEKHPROM</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO RT-BIOTEKHPROM</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RT-BIOTEKHPROM, AO</name1>
 				<name2/>
 				<name3/>
@@ -136778,6 +138129,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO RT-AVTO</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO RT-AVTO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RT-AVTO, AO</name1>
 				<name2/>
@@ -136873,6 +138231,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO SHVABE</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO SHVABE</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>JOINT STOCK COMPANY SHVABE</name1>
 				<name2/>
 				<name3/>
@@ -136967,6 +138332,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROMINVEST</name1>
+				<name2/>
+				<name3>OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROMINVEST</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>PROMINVEST, OOO</name1>
 				<name2/>
 				<name3/>
@@ -137032,6 +138404,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OBIEDINENNAYA PROMYSHLENNAYA KORPORATSIYA OBORONPROM OAO</name1>
+				<name2/>
+				<name3>OBIEDINENNAYA PROMYSHLENNAYA KORPORATSIYA OBORONPROM OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OPK OBORONPROM OAO</name1>
 				<name2/>
@@ -137134,6 +138513,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ROSOBORONEKSPORT OAO</name1>
+				<name2/>
+				<name3>ROSOBORONEKSPORT OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RUSSIAN DEFENSE EXPORT ROSOBORONEXPORT</name1>
 				<name2/>
 				<name3/>
@@ -137228,6 +138614,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KONTSERN SIRIUS OAO</name1>
+				<name2/>
+				<name3>KONTSERN SIRIUS OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CONCERN SIRIUS JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -137300,6 +138693,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>JOINT-STOCK COMMERCIAL BANK NOVIKOMBANK</name1>
+				<name2/>
+				<name3>JOINT-STOCK COMMERCIAL BANK NOVIKOMBANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JSCB NOVIKOMBANK</name1>
 				<name2/>
@@ -137409,6 +138809,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO RT-OKHRANA</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO RT-OKHRANA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RT-OKHRANA, AO</name1>
 				<name2/>
 				<name3/>
@@ -137503,6 +138910,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO TEKHNOLOGII BEZOPASNOSTI</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO TEKHNOLOGII BEZOPASNOSTI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>TEKHNOLOGII BEZOPASNOSTI, OAO</name1>
 				<name2/>
 				<name3/>
@@ -137576,6 +138990,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>UNITED INSTRUMENT MANUFACTURING CORPORATION</name1>
+				<name2/>
+				<name3>UNITED INSTRUMENT MANUFACTURING CORPORATION</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>JSC-UNITED-INSTRUMENT-MANUFACTURING-CORPORATION</name1>
 				<name2/>
 				<name3/>
@@ -137634,6 +139055,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-INFORM</name1>
+				<name2/>
+				<name3>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-INFORM</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RT-INFORM LIMITED LIABILITY COMPANY</name1>
 				<name2/>
@@ -137715,6 +139143,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KONTSERN ORION OAO</name1>
+				<name2/>
+				<name3>KONTSERN ORION OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ORION CONCERN OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -137774,6 +139209,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>RT-METALLURGIYA OAO</name1>
+				<name2/>
+				<name3>RT-METALLURGIYA OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OPEN JOINT-STOCK COMPANY RT-METALLURGIYA</name1>
 				<name2/>
 				<name3/>
@@ -137825,6 +139267,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>KONTSERN AVIAPRIBOROSTROENIE OAO</name1>
+				<name2/>
+				<name3>KONTSERN AVIAPRIBOROSTROENIE OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AIRCRAFT ENGINEERING CONCERN OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
@@ -137885,6 +139334,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>90 EKSPERIMENTALNY ZAVOD OAO</name1>
+				<name2/>
+				<name3>90 EKSPERIMENTALNY ZAVOD OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>90 EXPERIMENTAL PLANT OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -137943,6 +139399,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO TSENTRALNOE KONSTRUKTORSKOE BYURO SPETSIALNYKH RADIOMATERIALOV</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO TSENTRALNOE KONSTRUKTORSKOE BYURO SPETSIALNYKH RADIOMATERIALOV</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>TSKB RM, AO</name1>
 				<name2/>
@@ -138052,6 +139515,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO MOSKOVSKI MASHINOSTROITELNY EKSPERIMENTALNY ZAVOD - KOMPOZITSIONNYE TEKHNOLOGII</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO MOSKOVSKI MASHINOSTROITELNY EKSPERIMENTALNY ZAVOD - KOMPOZITSIONNYE TEKHNOLOGII</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>MOSCOW MECHANICAL EXPERIMENTAL PLANT - COMPOSITE TECHNOLOGIES OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -138160,6 +139630,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATKA</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATKA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NOVO-VYATKA, OAO</name1>
 				<name2/>
 				<name3/>
@@ -138247,6 +139724,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE OPTIKA</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE OPTIKA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NPO OPTIKA, AO</name1>
 				<name2/>
 				<name3/>
@@ -138333,6 +139817,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE STANKOIMPORT</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE STANKOIMPORT</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>VO STANKOIMPORT, OAO</name1>
 				<name2/>
@@ -138428,6 +139919,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKOE PROIZVODSTVENNOE OBEDINENIE LUCH</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKOE PROIZVODSTVENNOE OBEDINENIE LUCH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NPO LUCH, OAO</name1>
 				<name2/>
 				<name3/>
@@ -138507,6 +140005,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE SPLAV</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE SPLAV</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>NPO SPLAV, OAO</name1>
 				<name2/>
@@ -138594,6 +140099,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOVYATSKI MEKHANICHESKI ZAVOD</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOVYATSKI MEKHANICHESKI ZAVOD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OPEN JOINT STOCK COMPANY NOVOVYATSK MECHANICAL PLANT</name1>
 				<name2/>
@@ -138689,6 +140201,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-ENERGOEFFEKTIVNOST</name1>
+				<name2/>
+				<name3>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-ENERGOEFFEKTIVNOST</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RT-ENERGO, OOO</name1>
 				<name2/>
 				<name3/>
@@ -138768,6 +140287,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO KALINOVSKI KHIMICHESKI ZAVOD</name1>
+				<name2/>
+				<name3>OTKRYTOE AKTSIONERNOE OBSHCHESTVO KALINOVSKI KHIMICHESKI ZAVOD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>KKHZ, OAO</name1>
 				<name2/>
@@ -138863,6 +140389,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKI ZAVOD POLUPROVODNIKOVYKH PRIBOROV S OKB</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKI ZAVOD POLUPROVODNIKOVYKH PRIBOROV S OKB</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NOVOSIBIRSK FACTORY OF SEMICONDUCTOR DEVICES WITH THE SPECIAL DESIGN CENTRE PUBLIK JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -138949,6 +140482,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>AKTSIONERNOE OBSHCHESTVO RT-STROITELNYE TEKHNOLOGII</name1>
+				<name2/>
+				<name3>AKTSIONERNOE OBSHCHESTVO RT-STROITELNYE TEKHNOLOGII</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>RT-STROITELNYE TEKHNOLOGII, AO</name1>
 				<name2/>
@@ -139037,6 +140577,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>MZ MAYAK OAO</name1>
+				<name2/>
+				<name3>MZ MAYAK OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>MAYAK MACHINE BUILDING PLANT OPEN JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -139103,6 +140650,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ULYANOVSKI GIPROAVIAPROM OAO</name1>
+				<name2/>
+				<name3>ULYANOVSKI GIPROAVIAPROM OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ULYANOVSKIY GIPROAVIAPROM OJSC</name1>
 				<name2/>
 				<name3/>
@@ -139168,6 +140722,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO</name1>
+				<name2/>
+				<name3>OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>UNITED ENGINE CORPORATION JSC</name1>
 				<name2/>
@@ -139256,6 +140817,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VERTOLETY ROSSII AO</name1>
+				<name2/>
+				<name3>VERTOLETY ROSSII AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>RUSSIAN HELICOPTERS JOINT STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -139343,6 +140911,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM DOBYCHA YAMBURG,OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA YAMBURG,OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM DOBYCHA YAMBURG</name1>
 				<name2/>
 				<name3/>
@@ -139422,6 +140997,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ YUGORSK, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ YUGORSK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ YUGORSK</name1>
 				<name2/>
@@ -139510,6 +141092,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NIIGAZEKONOMIKA, OOO</name1>
+				<name2/>
+				<name3>NIIGAZEKONOMIKA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NIIGAZECONOMIKA</name1>
 				<name2/>
 				<name3/>
@@ -139589,6 +141178,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ SANKT-PETERBURG, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ SANKT-PETERBURG, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ SAINT PETERSBURG</name1>
 				<name2/>
@@ -139670,6 +141266,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ STAVROPOL, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ STAVROPOL, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ STAVROPOL</name1>
 				<name2/>
 				<name3/>
@@ -139750,6 +141353,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM RUSSKAYA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM RUSSKAYA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM RUSSKAYA</name1>
 				<name2/>
 				<name3/>
@@ -139822,6 +141432,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM ENERGO, OOO</name1>
+				<name2/>
+				<name3>GAZPROM ENERGO, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM ENERGO</name1>
 				<name2/>
@@ -139903,6 +141520,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM DOBYCHA NADYM, OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA NADYM, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM DOBYCHA NADYM</name1>
 				<name2/>
 				<name3/>
@@ -139982,6 +141606,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM SVYAZ, OOO</name1>
+				<name2/>
+				<name3>GAZPROM SVYAZ, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM SVYAZ</name1>
 				<name2/>
@@ -140063,6 +141694,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM MEZHREGIONGAZ, OOO</name1>
+				<name2/>
+				<name3>GAZPROM MEZHREGIONGAZ, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM MEZHREGIONGAZ</name1>
 				<name2/>
 				<name3/>
@@ -140142,6 +141780,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM DOBYCHA KUZNETSK, OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA KUZNETSK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM DOBYCHA KUZNETSK</name1>
 				<name2/>
@@ -140223,6 +141868,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ UKHTA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ UKHTA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ UKHTA</name1>
 				<name2/>
 				<name3/>
@@ -140302,6 +141954,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ KAZAN, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ KAZAN, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ KAZAN</name1>
 				<name2/>
@@ -140383,6 +142042,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ SARATOV, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ SARATOV, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ SARATOV</name1>
 				<name2/>
 				<name3/>
@@ -140462,6 +142128,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM SOTSINVEST, OOO</name1>
+				<name2/>
+				<name3>GAZPROM SOTSINVEST, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM SOTSINVEST</name1>
 				<name2/>
@@ -140550,6 +142223,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM DOBYCHA NOYABRSK, OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA NOYABRSK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM DOBYCHA NOYABRSK</name1>
 				<name2/>
 				<name3/>
@@ -140630,6 +142310,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM GAZOBEZOPASNOST, OOO</name1>
+				<name2/>
+				<name3>GAZPROM GAZOBEZOPASNOST, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM GAZOBEZOPASNOST</name1>
 				<name2/>
 				<name3/>
@@ -140709,6 +142396,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM FLOT, OOO</name1>
+				<name2/>
+				<name3>GAZPROM FLOT, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM FLOT</name1>
 				<name2/>
@@ -140797,6 +142491,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZ-OIL, OOO</name1>
+				<name2/>
+				<name3>GAZ-OIL, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZ-OIL</name1>
 				<name2/>
 				<name3/>
@@ -140884,6 +142585,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM INVEST, OOO</name1>
+				<name2/>
+				<name3>GAZPROM INVEST, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM INVEST</name1>
 				<name2/>
 				<name3/>
@@ -140963,6 +142671,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TSENTRREMONT, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TSENTRREMONT, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TSENTRREMONT</name1>
 				<name2/>
@@ -141044,6 +142759,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM DOBYCHA KRASNODAR, OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA KRASNODAR, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM DOBYCHA KRASNODAR</name1>
 				<name2/>
 				<name3/>
@@ -141123,6 +142845,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ KRASNODAR, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ KRASNODAR, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ KRASNODAR</name1>
 				<name2/>
@@ -141204,6 +142933,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM PERSONAL, OOO</name1>
+				<name2/>
+				<name3>GAZPROM PERSONAL, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM PERSONAL</name1>
 				<name2/>
 				<name3/>
@@ -141276,6 +143012,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM PERERABOTKA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM PERERABOTKA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM PERERABOTKA</name1>
 				<name2/>
@@ -141357,6 +143100,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ VOLGOGRAD, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ VOLGOGRAD, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ VOLGOGRAD</name1>
 				<name2/>
 				<name3/>
@@ -141436,6 +143186,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ TOMSK, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ TOMSK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ TOMSK</name1>
 				<name2/>
@@ -141517,6 +143274,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ SURGUT, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ SURGUT, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ SURGUT</name1>
 				<name2/>
 				<name3/>
@@ -141596,6 +143360,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ NIZHNI NOVGOROD, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ NIZHNI NOVGOROD, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ NIZHNY NOVGOROD</name1>
 				<name2/>
@@ -141677,6 +143448,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM GAZNADZOR, OOO</name1>
+				<name2/>
+				<name3>GAZPROM GAZNADZOR, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM GAZNADZOR</name1>
 				<name2/>
 				<name3/>
@@ -141756,6 +143534,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM KOMPLEKTATSIYA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM KOMPLEKTATSIYA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM KOMPLEKTATSIYA</name1>
 				<name2/>
@@ -141837,6 +143622,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM VNIIGAZ, OOO</name1>
+				<name2/>
+				<name3>GAZPROM VNIIGAZ, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM VNIIGAZ</name1>
 				<name2/>
 				<name3/>
@@ -141916,6 +143708,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TELEKOM, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TELEKOM, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TELECOM</name1>
 				<name2/>
@@ -142004,6 +143803,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM INFORM, OOO</name1>
+				<name2/>
+				<name3>GAZPROM INFORM, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM INFORM</name1>
 				<name2/>
 				<name3/>
@@ -142090,6 +143896,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM DOBYCHA IRKUTSK, OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA IRKUTSK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM DOBYCHA IRKUTSK</name1>
 				<name2/>
@@ -142178,6 +143991,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZMASH, AO</name1>
+				<name2/>
+				<name3>GAZMASH, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZMASH</name1>
 				<name2/>
 				<name3/>
@@ -142265,6 +144085,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ SAMARA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ SAMARA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ SAMARA</name1>
 				<name2/>
 				<name3/>
@@ -142344,6 +144171,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM KAPITAL, OOO</name1>
+				<name2/>
+				<name3>GAZPROM KAPITAL, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM KAPITAL</name1>
 				<name2/>
@@ -142432,6 +144266,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>YAMALGAZINVEST, ZAO</name1>
+				<name2/>
+				<name3>YAMALGAZINVEST, ZAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>YAMALGAZINVEST</name1>
 				<name2/>
 				<name3/>
@@ -142512,6 +144353,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM DOBYCHA URENGOI, OOO</name1>
+				<name2/>
+				<name3>GAZPROM DOBYCHA URENGOI, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM DOBYCHA URENGOY</name1>
 				<name2/>
 				<name3/>
@@ -142591,6 +144439,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM GEOLOGORAZVEDKA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM GEOLOGORAZVEDKA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM GEOLOGORAZVEDKA</name1>
 				<name2/>
@@ -142679,6 +144534,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROM TRANSGAZ MAKHACHKALA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ MAKHACHKALA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>GAZPROM TRANSGAZ MAKHACHKALA</name1>
 				<name2/>
 				<name3/>
@@ -142765,6 +144627,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM TRANSGAZ UFA, OOO</name1>
+				<name2/>
+				<name3>GAZPROM TRANSGAZ UFA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM TRANSGAZ UFA</name1>
 				<name2/>
@@ -142853,6 +144722,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>VOSTOKGAZPROM, OAO</name1>
+				<name2/>
+				<name3>VOSTOKGAZPROM, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>VOSTOKGAZPROM</name1>
 				<name2/>
 				<name3/>
@@ -142933,6 +144809,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>LAZURNAYA, OOO</name1>
+				<name2/>
+				<name3>LAZURNAYA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LAZURNAYA</name1>
 				<name2/>
 				<name3/>
@@ -143012,6 +144895,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM PROMGAZ, AO</name1>
+				<name2/>
+				<name3>GAZPROM PROMGAZ, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROM PROMGAZ</name1>
 				<name2/>
@@ -143100,6 +144990,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KAMCHATGAZPROM, OAO</name1>
+				<name2/>
+				<name3>KAMCHATGAZPROM, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>KAMCHATGAZPROM</name1>
 				<name2/>
 				<name3/>
@@ -143179,6 +145076,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>DALTRANSGAZ, OAO</name1>
+				<name2/>
+				<name3>DALTRANSGAZ, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>DALTRANSGAZ</name1>
 				<name2/>
@@ -143260,6 +145164,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>DRUZHBA, AO</name1>
+				<name2/>
+				<name3>DRUZHBA, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>DRUZHBA</name1>
 				<name2/>
 				<name3/>
@@ -143339,6 +145250,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>KRASNOYARSKGAZPROM, PAO</name1>
+				<name2/>
+				<name3>KRASNOYARSKGAZPROM, PAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>KRASNOYARSKGAZPROM</name1>
 				<name2/>
@@ -143420,6 +145338,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ACHIM DEVELOPMENT, OOO</name1>
+				<name2/>
+				<name3>ACHIM DEVELOPMENT, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ACHIM DEVELOPMENT</name1>
 				<name2/>
 				<name3/>
@@ -143485,6 +145410,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SG MSK, AO</name1>
+				<name2/>
+				<name3>SG MSK, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OPEN JOINT STOK COMPANY 'INSURANCE GROUP MCK'</name1>
 				<name2/>
@@ -143580,6 +145512,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BM PROEKT, OOO</name1>
+				<name2/>
+				<name3>BM PROEKT, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>BM PROJECT LLC</name1>
 				<name2/>
 				<name3/>
@@ -143667,6 +145606,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>LLC BALTECH</name1>
+				<name2/>
+				<name3>LLC BALTECH</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>BALTECH LLC</name1>
 				<name2/>
 				<name3/>
@@ -143712,6 +145658,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BM HOLDING AG</name1>
+				<name2/>
+				<name3>BM HOLDING AG</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>BM HOLDING LTD</name1>
 				<name2/>
 				<name3/>
@@ -143755,7 +145708,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>BOM ASSET MANAGEMENT LTD</name1>
+				<name2/>
+				<name3>BOM ASSET MANAGEMENT LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Arc. Makariou 2-4, Capital center, 9th floor, index 1065</street>
@@ -143785,7 +145746,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>BOM FINANCE LTD</name1>
+				<name2/>
+				<name3>BOM FINANCE LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>2nd Floor Vanterpool Plaza, Wickhams Cay 1</street>
@@ -143816,6 +145785,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>BOM PROJECT FINANCING LTD</name1>
+				<name2/>
+				<name3>BOM PROJECT FINANCING LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>BOM PROJECT FINANCING LIMITED</name1>
 				<name2/>
@@ -143853,7 +145829,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>CROSSPLANET LTD</name1>
+				<name2/>
+				<name3>CROSSPLANET LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>196/Themistokli Dervi, 3 Julia House</street>
@@ -143884,6 +145868,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>FINANSOVY ASSISTENT CJSC</name1>
+				<name2/>
+				<name3>FINANSOVY ASSISTENT CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>ZAO 'FINANSOVY ASSISTANT'</name1>
 				<name2/>
@@ -143929,6 +145920,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>BPO PECHATNIKI, OAO</name1>
+				<name2/>
+				<name3>BPO PECHATNIKI, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OPEN JOINT STOCK COMPANY 'BUMAZHNO-POLIGRAFICHESKOYE OBYEDINENIYE 'PECHATNIKI'</name1>
 				<name2/>
@@ -143996,6 +145994,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>UNITED COMPANY OJSC</name1>
+				<name2/>
+				<name3>UNITED COMPANY OJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OJSC UNITED COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -144047,6 +146052,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>BM BANK PUBLIC JOINT STOCK COMPANY</name1>
+				<name2/>
+				<name3>BM BANK PUBLIC JOINT STOCK COMPANY</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>BMBANK JSC</name1>
 				<name2/>
@@ -144128,6 +146140,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>LESPROMPROTSESSING, ZAO</name1>
+				<name2/>
+				<name3>LESPROMPROTSESSING, ZAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CLOSED JOINT-STOCK COMPANY 'LESPROMPROCESSING'</name1>
 				<name2/>
 				<name3/>
@@ -144200,6 +146219,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>RIELTSITI, OOO</name1>
+				<name2/>
+				<name3>RIELTSITI, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S GRANICHENNOI OTVETSTVENNOSTYU 'RIELTSITI'</name1>
 				<name2/>
@@ -144288,6 +146314,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA, AO</name1>
+				<name2/>
+				<name3>MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>JOINT STOCK COMPANY 'MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA'</name1>
 				<name2/>
 				<name3/>
@@ -144375,6 +146408,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>BM-DIREKTSIYA, OOO</name1>
+				<name2/>
+				<name3>BM-DIREKTSIYA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>BM DIREKTSIYA LLC</name1>
 				<name2/>
 				<name3/>
@@ -144455,6 +146495,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OPEN JOINT STOCK COMPANY CHAYKA</name1>
+				<name2/>
+				<name3>OPEN JOINT STOCK COMPANY CHAYKA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>PJSC CHAIKA</name1>
 				<name2/>
 				<name3/>
@@ -144514,6 +146561,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AUTOMATED BANKING TECHNOLOGIES CJSC</name1>
+				<name2/>
+				<name3>AUTOMATED BANKING TECHNOLOGIES CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CJSC 'AUTOMATED BANKING TECHNOLOGIES'</name1>
 				<name2/>
 				<name3/>
@@ -144572,6 +146626,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>CREDIT URAL BANK</name1>
+				<name2/>
+				<name3>CREDIT URAL BANK</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CREDIT URAL BANK JOINT-STOCK COMPANY</name1>
 				<name2/>
@@ -144660,6 +146721,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZKARDSERVIS OOO</name1>
+				<name2/>
+				<name3>GAZKARDSERVIS OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LIMITED LIABILITY COMPANY GAZKARDSERVIS</name1>
 				<name2/>
 				<name3/>
@@ -144711,6 +146779,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROM MEDIA HOLDING</name1>
+				<name2/>
+				<name3>GAZPROM MEDIA HOLDING</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JSC GAZPROM-MEDIA HOLDING</name1>
 				<name2/>
@@ -144778,6 +146853,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GAZPROMBANK LEASING ZAO</name1>
+				<name2/>
+				<name3>GAZPROMBANK LEASING ZAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CLOSED JOINT-STOCK COMPANY GAZPROMBANK LIZING</name1>
 				<name2/>
 				<name3/>
@@ -144836,6 +146918,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GAZPROMBANK UPRAVLENIE AKTIVAMI</name1>
+				<name2/>
+				<name3>GAZPROMBANK UPRAVLENIE AKTIVAMI</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>GAZPROMBANK ASSET MANAGEMENT ZAO</name1>
 				<name2/>
@@ -144896,6 +146985,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GPB-FACTORING OOO</name1>
+				<name2/>
+				<name3>GPB-FACTORING OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LIMITED LIABILITY COMPANY GPB-FAKTORING</name1>
 				<name2/>
 				<name3/>
@@ -144954,6 +147050,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GPB INVEST OOO</name1>
+				<name2/>
+				<name3>GPB INVEST OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LIMITED LIABILITY COMPANY GAZPROMBANK-INVEST</name1>
 				<name2/>
@@ -145014,6 +147117,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NEW FINANCIAL TECHNOLOGIES OOO</name1>
+				<name2/>
+				<name3>NEW FINANCIAL TECHNOLOGIES OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>CLOSED JOINT-STOCK COMPANY NOVYE FINANSOVYE TEKHNOLOGII</name1>
 				<name2/>
 				<name3/>
@@ -145073,6 +147183,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>PO URALENERGOMONTAZH ZAO</name1>
+				<name2/>
+				<name3>PO URALENERGOMONTAZH ZAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>PO UEM JSC</name1>
 				<name2/>
 				<name3/>
@@ -145124,6 +147241,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GPB-MORTGAGE JSC</name1>
+				<name2/>
+				<name3>GPB-MORTGAGE JSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>JOINT-STOCK BANK GPB-MORTGAGE CLOSED JOINT STOCK COMPANY</name1>
 				<name2/>
@@ -145191,6 +147315,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>IZ KARTEKS OOO</name1>
+				<name2/>
+				<name3>IZ KARTEKS OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>IZ-KARTEX NAMED AFTER P.G. KOROBKOV LTD</name1>
 				<name2/>
 				<name3/>
@@ -145250,6 +147381,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>IZHORSKIYE ZAVODY OAO</name1>
+				<name2/>
+				<name3>IZHORSKIYE ZAVODY OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OPEN JOINT STOCK COMPANY IZHORSKIE ZAVODY</name1>
 				<name2/>
 				<name3/>
@@ -145308,6 +147446,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>KRIOGENMASH OAO</name1>
+				<name2/>
+				<name3>KRIOGENMASH OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CRYOGENMASH</name1>
 				<name2/>
@@ -145375,6 +147520,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>OMZ OAO</name1>
+				<name2/>
+				<name3>OMZ OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBYEDINYONNYE MASHINOSTROITELNYE ZAVODY (GRUPPA URALMASH-IZHORA)</name1>
 				<name2/>
 				<name3/>
@@ -145433,6 +147585,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>OMZ SPETSSTAL OOO</name1>
+				<name2/>
+				<name3>OMZ SPETSSTAL OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LIMITED LIABILITY COMPANY OMZ-SPETSSTAL</name1>
 				<name2/>
@@ -145500,6 +147659,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>URALMASHZAVOD OAO</name1>
+				<name2/>
+				<name3>URALMASHZAVOD OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>URALMASHPLANT</name1>
 				<name2/>
 				<name3/>
@@ -145559,6 +147725,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AREXIMBANK-GAZPROMBANK GROUP CJSC</name1>
+				<name2/>
+				<name3>AREXIMBANK-GAZPROMBANK GROUP CJSC</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ARMENIAN-RUSSIAN EXPORT-IMPORT BANK-GAZPROMBANK GROUP CLOSED JOINT-STOCK COMPANY</name1>
 				<name2/>
 				<name3/>
@@ -145616,7 +147789,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>GAZPROMBANK (SWITZERLAND) LTD</name1>
+				<name2/>
+				<name3>GAZPROMBANK (SWITZERLAND) LTD</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Zollikerstrasse 183</street>
@@ -145661,6 +147842,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>CENTREX EUROPE ENERGY AND GAS AG</name1>
+				<name2/>
+				<name3>CENTREX EUROPE ENERGY AND GAS AG</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CENTREX EUROPE ENERGY &amp; GAS AG</name1>
 				<name2/>
@@ -145714,6 +147902,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>GPB-DI HOLDINGS LIMITED</name1>
+				<name2/>
+				<name3>GPB-DI HOLDINGS LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>SIRITIA VENTURES LTD</name1>
 				<name2/>
 				<name3/>
@@ -145757,7 +147952,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>GPB FINANCIAL SERVICES LIMITED</name1>
+				<name2/>
+				<name3>GPB FINANCIAL SERVICES LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Arianthi Court 2nd floor 50 Agias Zonis Street</street>
@@ -145801,7 +148004,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>GPB GLOBAL RESOURCES BV</name1>
+				<name2/>
+				<name3>GPB GLOBAL RESOURCES BV</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Dijsselhofplantsoen 14</street>
@@ -145845,7 +148056,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>GPB INTERNATIONAL SA</name1>
+				<name2/>
+				<name3>GPB INTERNATIONAL SA</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>8-10 rue Mathias Hardt</street>
@@ -145891,6 +148110,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NAGELFAR TRADE AND INVEST LIMITED</name1>
+				<name2/>
+				<name3>NAGELFAR TRADE AND INVEST LIMITED</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>NAGELFAR TRADE &amp; INVEST LIMITED</name1>
 				<name2/>
 				<name3/>
@@ -145927,7 +148153,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>GAZPROMBANK LATIN AMERICA VENTURES BV</name1>
+				<name2/>
+				<name3>GAZPROMBANK LATIN AMERICA VENTURES BV</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Dijsselhofplantsoen 14</street>
@@ -145964,7 +148198,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>SKODA JS A.S.</name1>
+				<name2/>
+				<name3>SKODA JS A.S.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>Orlik 266 Plzen - mesto PSC 316 06</street>
@@ -145995,6 +148237,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TD AGROTORG, OOO</name1>
+				<name2/>
+				<name3>TD AGROTORG, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TORGOVY' DOM 'AGROTORG'</name1>
 				<name2/>
@@ -146068,6 +148317,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>RASSVET, OAO</name1>
+				<name2/>
+				<name3>RASSVET, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'RASSVET'</name1>
 				<name2/>
@@ -146163,6 +148419,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>AGROKREDIT-INFORM, AO</name1>
+				<name2/>
+				<name3>AGROKREDIT-INFORM, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'AGROKREDIT-INFORM'</name1>
 				<name2/>
 				<name3/>
@@ -146228,6 +148491,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>UMANSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>UMANSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'UMANSKI ELEVATOR'</name1>
 				<name2/>
@@ -146308,6 +148578,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>BELOGLINSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>BELOGLINSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'BELOGLINSKI ELEVATOR'</name1>
 				<name2/>
@@ -146396,6 +148673,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>LADOZHSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>LADOZHSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'LADOZHSKI ELEVATOR'</name1>
 				<name2/>
 				<name3/>
@@ -146475,6 +148759,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>VELICHKOVSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>VELICHKOVSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'VELICHKOVSKI ELEVATOR'</name1>
 				<name2/>
@@ -146556,6 +148847,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>EYANSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>EYANSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'EYANSKI ELEVATOR'</name1>
 				<name2/>
 				<name3/>
@@ -146636,6 +148934,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KHOMYAKOVSKI KHLADOKOMBINAT, ZAO</name1>
+				<name2/>
+				<name3>KHOMYAKOVSKI KHLADOKOMBINAT, ZAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ZAKRYTOE AKTSIONERNOE OBSHCHESTVO 'KHOMYAKOVSKI KHLADOKOMBINAT'</name1>
 				<name2/>
 				<name3/>
@@ -146701,6 +149006,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>MALOROSSISKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>MALOROSSISKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'MALOROSSISKI ELEVATOR'</name1>
 				<name2/>
@@ -146781,6 +149093,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>KRYLOVSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>KRYLOVSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'KRYLOVSKI ELVATOR'</name1>
 				<name2/>
@@ -146869,6 +149188,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ROVNENSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>ROVNENSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'ROVNENSKI ELEVATOR'</name1>
 				<name2/>
 				<name3/>
@@ -146955,6 +149281,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>STEPNYANSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>STEPNYANSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'STEPNYANSKI ELEVATOR'</name1>
 				<name2/>
@@ -147043,6 +149376,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>ALBASHSKI ELEVATOR, OAO</name1>
+				<name2/>
+				<name3>ALBASHSKI ELEVATOR, OAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'ALBASHSKI ELEVATOR'</name1>
 				<name2/>
 				<name3/>
@@ -147130,6 +149470,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NOVATEK-UST-LUGA, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-UST-LUGA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-UST-LUGA'</name1>
 				<name2/>
 				<name3/>
@@ -147196,6 +149543,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SHERVUD PREMER, OOO</name1>
+				<name2/>
+				<name3>SHERVUD PREMER, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'SHERVUD PREMER'</name1>
 				<name2/>
 				<name3/>
@@ -147261,6 +149615,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NOVATEK-TARKOSALENEFTEGAZ, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-TARKOSALENEFTEGAZ, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-TARKOSALENEFTEGAZ'</name1>
 				<name2/>
@@ -147342,6 +149703,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NOVATEK SEVERO-ZAPAD, OOO</name1>
+				<name2/>
+				<name3>NOVATEK SEVERO-ZAPAD, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK SEVERO-ZAPAD'</name1>
 				<name2/>
 				<name3/>
@@ -147407,6 +149775,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NOVATEK-PUROVSKI ZPK, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-PUROVSKI ZPK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-PUROVSKI ZPK'</name1>
 				<name2/>
@@ -147488,6 +149863,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NOVATEK-TRANSERVIS, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-TRANSERVIS, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-TRANSERVIS'</name1>
 				<name2/>
 				<name3/>
@@ -147560,6 +149942,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NOVATEK-PERM, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-PERM, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-PERM'</name1>
 				<name2/>
@@ -147634,6 +150023,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NOVATEK-CHELYABINSK, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-CHELYABINSK, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK- CHELYABINSK'</name1>
 				<name2/>
 				<name3/>
@@ -147707,6 +150103,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NOVATEK-YARSALENEFTEGAZ, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-YARSALENEFTEGAZ, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-YARSALENEFTEGAZ'</name1>
 				<name2/>
 				<name3/>
@@ -147772,6 +150175,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NOVATEK-KOSTROMA, OOO</name1>
+				<name2/>
+				<name3>NOVATEK-KOSTROMA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-KOSTROMA'</name1>
 				<name2/>
@@ -147860,6 +150270,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TERNEFTEGAZ, ZAO</name1>
+				<name2/>
+				<name3>TERNEFTEGAZ, ZAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>ZAO TERNEFTGAS</name1>
 				<name2/>
 				<name3/>
@@ -147918,6 +150335,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>YARGEO, OOO</name1>
+				<name2/>
+				<name3>YARGEO, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'YARGEO'</name1>
 				<name2/>
@@ -147991,6 +150415,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT FINANS, OOO</name1>
+				<name2/>
+				<name3>TRANSNEFT FINANS, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TRANSNEFT FINANS'</name1>
 				<name2/>
@@ -148079,6 +150510,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TRANSNEFT-MEDIA, OOO</name1>
+				<name2/>
+				<name3>TRANSNEFT-MEDIA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TRANSNEFT - MEDIA'</name1>
 				<name2/>
 				<name3/>
@@ -148166,6 +150604,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TRANSNEFT-PRIVOLGA, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-PRIVOLGA, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT-PRIVOLGA'</name1>
 				<name2/>
 				<name3/>
@@ -148252,6 +150697,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-SIBIR, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-SIBIR, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - SIBIR'</name1>
 				<name2/>
@@ -148347,6 +150799,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>DSD, OOO</name1>
+				<name2/>
+				<name3>DSD, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'DALNEVOSTOCHNAYA STROITELNAYA DIREKTSIYA'</name1>
 				<name2/>
 				<name3/>
@@ -148427,6 +150886,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SVYAZTRANSNEFT, AO</name1>
+				<name2/>
+				<name3>SVYAZTRANSNEFT, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'SVYAZ OBEKTOV TRANSPORTA I DOBYCHI NEFTI'</name1>
 				<name2/>
 				<name3/>
@@ -148506,6 +150972,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-URAL, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-URAL, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - URAL'</name1>
 				<name2/>
@@ -148593,6 +151066,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFTEPRODUKT, PAO</name1>
+				<name2/>
+				<name3>TRANSNEFTEPRODUKT, PAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFTEPRODUKT'</name1>
 				<name2/>
@@ -148688,6 +151168,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TRANSNEFT-DRUZHBA, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-DRUZHBA, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - DRUZHBA'</name1>
 				<name2/>
 				<name3/>
@@ -148774,6 +151261,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>GIPROTRUBOPROVOD, AO</name1>
+				<name2/>
+				<name3>GIPROTRUBOPROVOD, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'INSTITUT PO PROEKTIROVANIYU MAGISTRALNYKH TRUBOPROVODOV'</name1>
 				<name2/>
@@ -148862,6 +151356,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>CHERNOMORTRANSNEFT, AO</name1>
+				<name2/>
+				<name3>CHERNOMORTRANSNEFT, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'CHERNOMORSKIE MAGISTRALNYE NEFTEPROVODY'</name1>
 				<name2/>
 				<name3/>
@@ -148949,6 +151450,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TSUP VSTO, OOO</name1>
+				<name2/>
+				<name3>TSUP VSTO, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TSENTR UPRAVLENIYA PROEKTOM 'VOSTOCHNAYA SIBIR - TIKHI OKEAN'</name1>
 				<name2/>
 				<name3/>
@@ -149028,6 +151536,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-TSENTRALNAYA SIBIR, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-TSENTRALNAYA SIBIR, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - TSENTRALNAYA SIBIR'</name1>
 				<name2/>
@@ -149116,6 +151631,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TRANSNEFT-SEVER, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-SEVER, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - SEVER'</name1>
 				<name2/>
 				<name3/>
@@ -149203,6 +151725,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>TRANSNEFT-OKHRANA, OOO</name1>
+				<name2/>
+				<name3>TRANSNEFT-OKHRANA, OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TRANSNEFT-OKHRANA'</name1>
 				<name2/>
 				<name3/>
@@ -149268,6 +151797,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-PODVODSERVIS, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-PODVODSERVIS, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT-PODVODSERVIS'</name1>
 				<name2/>
@@ -149348,6 +151884,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-DIASKAN, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-DIASKAN, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - DIASKAN'</name1>
 				<name2/>
@@ -149443,6 +151986,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>NPF TRANSNEFT, AO</name1>
+				<name2/>
+				<name3>NPF TRANSNEFT, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'NEGOSUDARSTVENNY PENSIONNY FOND 'TRANSNEFT'</name1>
 				<name2/>
 				<name3/>
@@ -149515,6 +152065,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-METROLOGIYA, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-METROLOGIYA, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFTMETROLOGIYA'</name1>
 				<name2/>
@@ -149602,6 +152159,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>TRANSNEFT-PRIKAME, AO</name1>
+				<name2/>
+				<name3>TRANSNEFT-PRIKAME, AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - PRIKAME'</name1>
 				<name2/>
@@ -149697,6 +152261,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>LENGIPRONEFTEKHIM OOO</name1>
+				<name2/>
+				<name3>LENGIPRONEFTEKHIM OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC LENGIPRONEFTEKHIM</name1>
 				<name2/>
 				<name3/>
@@ -149776,6 +152347,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SURGUTMEBEL OOO</name1>
+				<name2/>
+				<name3>SURGUTMEBEL OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>SURGUTMEBEL, LLC</name1>
 				<name2/>
@@ -149871,6 +152449,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>MEDIA-INVEST OOO</name1>
+				<name2/>
+				<name3>MEDIA-INVEST OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC MEDIA-INVEST</name1>
 				<name2/>
 				<name3/>
@@ -149936,6 +152521,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>PSKOVNEFTEPRODUKT OOO</name1>
+				<name2/>
+				<name3>PSKOVNEFTEPRODUKT OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LLC PSKOVNEFTEPRODUCT</name1>
 				<name2/>
@@ -150009,6 +152601,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>NOVGORODNEFTEPRODUKT OOO</name1>
+				<name2/>
+				<name3>NOVGORODNEFTEPRODUKT OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LLC NOVGORODNEFTEPRODUCT</name1>
 				<name2/>
@@ -150090,6 +152689,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>SOVKHOZ CHERVISHEVSKI PAO</name1>
+				<name2/>
+				<name3>SOVKHOZ CHERVISHEVSKI PAO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>OJSC SOVKHOZ CHERVISHEVSKY</name1>
 				<name2/>
 				<name3/>
@@ -150169,6 +152775,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>KINEF OOO</name1>
+				<name2/>
+				<name3>KINEF OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LLC KINEF</name1>
 				<name2/>
@@ -150257,6 +152870,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KALININGRADNEFTEPRODUKT OOO</name1>
+				<name2/>
+				<name3>KALININGRADNEFTEPRODUKT OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>KALININGRADNEFTEPRODUKT LLC</name1>
 				<name2/>
 				<name3/>
@@ -150336,6 +152956,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SO TVERNEFTEPRODUKT OOO</name1>
+				<name2/>
+				<name3>SO TVERNEFTEPRODUKT OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>LLC MA TVERNEFTEPRODUCT</name1>
 				<name2/>
@@ -150417,6 +153044,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>STRAKHOVOVE OBSHCHESTVO SURGUTNEFTEGAZ OOO</name1>
+				<name2/>
+				<name3>STRAKHOVOVE OBSHCHESTVO SURGUTNEFTEGAZ OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC INSURANCE COMPANY SURGUTNEFTEGAS</name1>
 				<name2/>
 				<name3/>
@@ -150497,6 +153131,13 @@
 	<person>
 		<names>
 			<name>
+				<name1>KIRISHIAVTOSERVIS OOO</name1>
+				<name2/>
+				<name3>KIRISHIAVTOSERVIS OOO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+			<name>
 				<name1>LLC KIRISHIAVTOSERVIS</name1>
 				<name2/>
 				<name3/>
@@ -150569,6 +153210,13 @@
 	</person>
 	<person>
 		<names>
+			<name>
+				<name1>SNGB AO</name1>
+				<name2/>
+				<name3>SNGB AO</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
 			<name>
 				<name1>CLOSED JOINT STOCK COMPANY SURGUTNEFTEGASBANK (ZAO SNGB)</name1>
 				<name2/>
@@ -150648,7 +153296,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>Evren KAYAKIRAN</name1>
+				<name2>Evren</name2>
+				<name3>KAYAKIRAN</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street/>
@@ -150692,7 +153348,15 @@
 		</documents>
 	</person>
 	<person>
-		<names/>
+		<names>
+			<name>
+				<name1>TNK TRADING INTERNATIONAL S.A.</name1>
+				<name2/>
+				<name3>TNK TRADING INTERNATIONAL S.A.</name3>
+				<name4/>
+				<lor>en</lor>
+			</name>
+		</names>
 		<addresses>
 			<address>
 				<street>place du Lac 2</street>
