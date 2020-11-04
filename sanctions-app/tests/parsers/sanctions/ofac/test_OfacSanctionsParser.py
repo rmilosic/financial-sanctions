@@ -10,5 +10,5 @@ def test_OfacParserSanctions():
 
 
     # ...
-    ofac_sanctions_parser.parse_xml_tree(os.path.join(os.path.dirname(__file__), 'consolidated-US.xml'))
+    ofac_sanctions_parser.parse_xml_tree()
     
