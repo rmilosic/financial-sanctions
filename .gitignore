@@ -132,3 +132,6 @@ dmypy.json
 vscode
 .vscode
 .vscode/
+
+venv
+.DS_Store

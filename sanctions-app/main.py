@@ -8,8 +8,8 @@ from parsers.sanctions.ofac import OfacSanctionsParser
 from parsers.sanctions.un import UnSanctionsParser
 
 from functions import write_xml_from_parse_result
+from email.send_email import send_consolidated_file_over_smtp
 
-#
 
 def main():
 
@@ -30,12 +30,16 @@ def main():
 
     
     logger.info('Sanctions app initiated')
+    
+    # TODO: get fresh data via scrapers
 
 
     # parsers
 
     ofac_parser = OfacSanctionsParser()
     ofac_result = ofac_parser.parse_xml_tree()
+    
+    # TODO: second ofac_parser
 
     eu_parser = EuSanctionsParser()
     eu_result = eu_parser.parse_xml_tree()
@@ -52,6 +56,9 @@ def main():
 
     write_xml_from_parse_result(final_result)
 
+    # send email
+    
+    # send_consolidated_file_over_smtp()
 
 
 if __name__ == '__main__':
