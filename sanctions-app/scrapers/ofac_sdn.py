@@ -2,7 +2,7 @@ from .save import save_file_to_source_data
 
 def download_ofac_sdn():
     """
-    Downloads OFAC Non SDN list
+    Downloads OFAC SDN list
     
     Returns
     string: path to file

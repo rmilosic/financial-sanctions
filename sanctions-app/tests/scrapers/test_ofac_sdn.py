@@ -1,7 +1,7 @@
-from scrapers.ofac_non_sdn import download_ofac_non_sdn
+from scrapers.ofac_sdn import download_ofac_sdn
 
-def test_download_ofac_non_sdn():
-    result = download_ofac_non_sdn()
+def test_download_ofac_sdn():
+    result = download_ofac_sdn()
     
     assert isinstance(result, object)
     
