@@ -9,7 +9,7 @@ from parsers.sanctions.un import UnSanctionsParser
 
 from functions import write_xml_from_parse_result
 from email.send_email import send_consolidated_file_over_smtp
-
+from scrapers.ofac_non_sdn import download_ofac_non_sdn
 
 def main():
 
@@ -32,6 +32,7 @@ def main():
     logger.info('Sanctions app initiated')
     
     # TODO: get fresh data via scrapers
+    # download_ofac_non_sdn()
 
 
     # parsers
