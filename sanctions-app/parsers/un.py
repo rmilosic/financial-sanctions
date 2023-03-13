@@ -1,7 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 
-from parsers.sanctions import SanctionsParser
+from parsers import SanctionsParser
 from models import SanctionEntity, SanctionEntityAddress, SanctionEntityDOB, SanctionEntityDocument, SanctionEntityName, SanctionEntityRestriction
 
 

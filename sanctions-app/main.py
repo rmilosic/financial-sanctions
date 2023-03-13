@@ -3,9 +3,9 @@ import io
 import os
 import logging
 
-from parsers.sanctions.eu import EuSanctionsParser
-from parsers.sanctions.ofac import OfacSanctionsParser
-from parsers.sanctions.un import UnSanctionsParser
+from parsers.eu import EuSanctionsParser
+from parsers.ofac import OfacSanctionsParser
+from parsers.un import UnSanctionsParser
 
 from functions import write_xml_from_parse_result
 from mail.send_email import send_consolidated_file_over_smtp
@@ -33,6 +33,8 @@ def main():
     
     logger.info('Sanctions app initiated')
     
+    logger.info('Downloading latest source files')
+
     try:
         ofac_non_sdn_path = download_ofac_non_sdn()
         ofac_sdn_path = download_ofac_sdn()
@@ -45,6 +47,8 @@ def main():
 
 
     # parsers
+
+    logger.info('Parsing source files')
 
     ofac_parser = OfacSanctionsParser()
     ofac_non_sdn_result = ofac_parser.parse_xml_tree(ofac_non_sdn_path)
@@ -59,11 +63,13 @@ def main():
     un_result = un_parser.parse_xml_tree(un_consolidated_path)
 
 
+
     # join
     final_result = eu_result + ofac_sdn_result + ofac_non_sdn_result + un_result
 
 
 
+    logger.info('Writing consolidated file')
     write_xml_from_parse_result(final_result)
 
     # send email
