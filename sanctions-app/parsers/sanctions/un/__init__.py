@@ -9,10 +9,11 @@ from models import SanctionEntity, SanctionEntityAddress, SanctionEntityDOB, San
 class UnSanctionsParser(SanctionsParser):
 
     @staticmethod
-    def parse_xml_tree():
+    def parse_xml_tree(file_path=None):
         
-
-        file_path = os.path.join(os.getcwd(), 'data', 'source_files', 'consolidated-UN.xml')
+        if not file_path:
+            # support legacy process
+            file_path = os.path.join(os.getcwd(), 'data', 'source_files', 'consolidated-UN.xml')
 
         try:
             tree = ET.parse(file_path)

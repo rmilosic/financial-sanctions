@@ -8,8 +8,10 @@ from parsers.sanctions.ofac import OfacSanctionsParser
 from parsers.sanctions.un import UnSanctionsParser
 
 from functions import write_xml_from_parse_result
-from email.send_email import send_consolidated_file_over_smtp
-from scrapers.ofac_non_sdn import download_ofac_non_sdn
+from mail.send_email import send_consolidated_file_over_smtp
+from scrapers.ofac import download_ofac_non_sdn, download_ofac_sdn
+from scrapers.eu_fsd import download_eu_fsd
+from scrapers.un_sc_consolidated_list import download_un_consolidated
 
 def main():
 
@@ -31,27 +33,34 @@ def main():
     
     logger.info('Sanctions app initiated')
     
-    # TODO: get fresh data via scrapers
-    # download_ofac_non_sdn()
+    try:
+        ofac_non_sdn_path = download_ofac_non_sdn()
+        ofac_sdn_path = download_ofac_sdn()
+        eu_fsd_path = download_eu_fsd()
+        un_consolidated_path = download_un_consolidated()
+
+    except Exception as e:
+        SystemExit(e)
+    
 
 
     # parsers
 
     ofac_parser = OfacSanctionsParser()
-    ofac_result = ofac_parser.parse_xml_tree()
+    ofac_non_sdn_result = ofac_parser.parse_xml_tree(ofac_non_sdn_path)
+    ofac_sdn_result = ofac_parser.parse_xml_tree(ofac_sdn_path)
     
-    # TODO: second ofac_parser
 
     eu_parser = EuSanctionsParser()
-    eu_result = eu_parser.parse_xml_tree()
+    eu_result = eu_parser.parse_xml_tree(eu_fsd_path)
 
 
     un_parser = UnSanctionsParser()
-    un_result = un_parser.parse_xml_tree()
+    un_result = un_parser.parse_xml_tree(un_consolidated_path)
 
 
     # join
-    final_result = eu_result + ofac_result + un_result
+    final_result = eu_result + ofac_sdn_result + ofac_non_sdn_result + un_result
 
 
 

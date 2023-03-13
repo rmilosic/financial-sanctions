@@ -9,15 +9,18 @@ from models import SanctionEntity, SanctionEntityAddress, SanctionEntityDOB, San
 class EuSanctionsParser(SanctionsParser):
 
     @staticmethod
-    def parse_xml_tree():
+    def parse_xml_tree(file_path=None):
         
-        file_path = os.path.join(os.getcwd(), 'data', 'source_files', 'consolidated-EU.xml')
+        if not file_path:
+            # support legacy process
+            file_path = os.path.join(os.getcwd(), 'data', 'source_files', 'consolidated-EU.xml')
 
 
         try:
             tree = ET.parse(file_path)
-        except FileNotFoundError:
-            raise Exception("EU sanctions source file 'consolidated-EU.xml' not found in data/source_files")
+        except FileNotFoundError as e:
+            raise Exception(e)
+            # raise Exception("EU sanctions source file 'consolidated-EU.xml' not found in data/source_files")
 
         ns = {'export': 'http://eu.europa.ec/fpi/fsd/export'}
 
